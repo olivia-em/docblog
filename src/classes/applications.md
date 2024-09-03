@@ -1,8 +1,6 @@
 ---
 title: Applications
 date: Fall 2024
-tags:
-  - class
 layout: layouts/class.njk
 ---
 
