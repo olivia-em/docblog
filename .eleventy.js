@@ -91,7 +91,7 @@ module.exports = function (eleventyConfig) {
 //     return coll;
 //   });
   
-   eleventyConfig.addCollection("app", function (collection) {
+   eleventyConfig.addCollection("apps", function (collection) {
     /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
        - https://www.11ty.dev/docs/collections/
     */

@@ -1,6 +1,6 @@
 ---
 title: Physical Computing
 when: Fall 2024
-layout: layouts/class.njk
+layout: layouts/physcomp/pc.njk
 ---
 

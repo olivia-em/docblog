@@ -1,5 +1,5 @@
 ---
-title: Applications: Week 1
+title: Applications Week 1
 layout: layouts/projects.njk
 tags:
   - app
