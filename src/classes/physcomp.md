@@ -1,8 +1,6 @@
 ---
 title: Physical Computing
-date: Fall 2024
-tags:
-  - class
+when: Fall 2024
 layout: layouts/class.njk
 ---
 

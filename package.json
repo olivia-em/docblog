@@ -1,23 +1,23 @@
 {
-  "name": "olivias-doc-blog",
+  "name": "glitch-hello-eleventy",
   "version": "0.1.0",
-  "description": "A Documentation blog, set up with Eleventy.",
+  "description": "A simple blog, set up with Eleventy.",
   "scripts": {
     "start": "eleventy --serve",
     "build": "NODE_ENV=production eleventy"
   },
   "dependencies": {
     "eleventy-plugin-seo": "0.5.2",
-    "luxon": "^3.4.0"
+    "luxon": "^3.0.1"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0"
+    "@11ty/eleventy": "^1.0.0"
   },
   "engines": {
-    "node": "14"
+    "node": "12"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/olivias-doc-blog"
+    "url": "https://glitch.com/edit/#!/glitch-hello-eleventy"
   },
   "glitch": {
     "projectType": "generated_static"
