@@ -8,4 +8,4 @@ layout: layouts/home.njk
 
 # Olivia's Doc Blog
 
-### Courses
+### Fall 2024 @ ITP

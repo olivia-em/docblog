@@ -1,9 +1,6 @@
 ---
 layout: layouts/base.njk
 templateClass: tmpl-home
-date: 2021-03-09
-tags:
-  - class
 ---
 
 {# This is the template for the Posts page–it lists the posts in the collection #}
@@ -17,7 +14,7 @@ tags:
       {%- for class in collections.classes -%}
         <li{% if page.url == class.url %} aria-current="page"{% endif %}>{{ class.data.page.date | htmlDateString }} — <a href='{{ class.url }}'>{{ class.data.title }}</a></li>
       {%- endfor -%}
-      <li><a href="/classes">View all Classes</a></li>
+<!--       <li><a href="/classes">View all Classes</a></li> -->
     </ul>
   </div>
 </div>

@@ -1,10 +1,13 @@
 ---
 layout: layouts/projects.njk
+tags:
+  - project
+  - applications
 ---
 
 ## Applications: Week 1
 
-Here you can write some details about you and your new blog: 
+Here you can write some details about you and your new blog:
 
 - 🎉 I love blogging
 - 💥 I built this site using [Eleventy](https://www.11ty.dev/) on [Glitch](https://glitch.com/)
