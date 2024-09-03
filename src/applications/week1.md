@@ -1,16 +1,8 @@
 ---
+title: Applications: Week 1
 layout: layouts/projects.njk
 tags:
-  - project
-  - applications
+  - app
 ---
 
-## Applications: Week 1
-
-Here you can write some details about you and your new blog:
-
-- 🎉 I love blogging
-- 💥 I built this site using [Eleventy](https://www.11ty.dev/) on [Glitch](https://glitch.com/)
-- 🌈 Thanks for reading!
-
-You can also make your project available for other people to remix in Glitch! 🎏✨
+hello there

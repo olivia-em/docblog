@@ -1,9 +1,6 @@
 ---
 layout: layouts/base.njk
 templateClass: tmpl-home
-date: 2021-03-09
-tags:
-  - class
 ---
 
 {# This is the template for the Posts page–it lists the posts in the collection #}
@@ -12,8 +9,8 @@ tags:
   <div class="content">
     {{ content | safe }}
     <ul>
-      {%- for project in collections.projects -%}
-        <li{% if page.url == project.url %} aria-current="page"{% endif %}><a href='{{ project.url }}'>{{ project.data.title }}</a></li>
+      {%- for  in collections.app -%}
+        <li{% if page.url == app.url %} aria-current="page"{% endif %}> <a href='{{ app.url }}'>{{ app.data.title }}</a></li>
       {%- endfor -%}
     </ul>
   </div>
