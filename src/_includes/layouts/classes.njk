@@ -14,7 +14,7 @@ tags:
     
     {# After the the content defined in index.md, list the blog posts in the collection #}
     <ul>
-      {%- for course in collections.courses -%}
+      {%- for class in collections.classes -%}
         <li{% if page.url == class.url %} aria-current="page"{% endif %}>{{ class.data.page.date | htmlDateString }} — <a href='{{ class.url }}'>{{ class.data.title }}</a></li>
       {%- endfor -%}
       <li><a href="/classes">View all Classes</a></li>

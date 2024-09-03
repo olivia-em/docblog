@@ -1,10 +1,9 @@
 ---
-title: Next Steps
-description: Alter your site config
-date: 2021-06-20
+title: Applications
+date: Fall 2024
 tags:
-  - posts
-layout: layouts/post.njk
+  - class
+layout: layouts/class.njk
 ---
 
 Earlier you added a new post and it appeared at the end of the list–if you're keeping a blog you probably want newer posts to appear first! Let's tweak the Eleventy config and use this to learn how you can customize your site build.

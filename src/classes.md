@@ -2,4 +2,4 @@
 layout: layouts/classes.njk
 ---
 
-## Classes
+## All Classes
