@@ -1,6 +1,6 @@
 ---
 title: Hypercinema
 when: Fall 2024
-layout: layouts/hypercinema/hype.njk
+layout: layouts/hype.njk
 ---
 
