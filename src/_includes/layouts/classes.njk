@@ -11,8 +11,8 @@ templateClass: tmpl-home
     
     {# After the the content defined in index.md, list the blog posts in the collection #}
     <ul>
-      {%- for class in collections.classes -%}
-        <li{% if page.url == class.url %} aria-current="page"{% endif %}><a href='{{ class.url }}'>{{ class.data.title }}</a></li>
+      {%- for fall2024 in collections.f24 -%}
+        <li{% if page.url == fall2024.url %} aria-current="page"{% endif %}><a href='{{ fall2024.url }}'>{{ fall2024.data.title }}</a></li>
       {%- endfor -%}
 <!--       <li><a href="/classes">View all Classes</a></li> -->
     </ul>
