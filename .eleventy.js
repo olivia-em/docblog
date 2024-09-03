@@ -47,23 +47,23 @@ module.exports = function (eleventyConfig) {
   /* Build the collection of posts to list in the site
      - Read the Next Steps post to learn how to extend this
   */
-  eleventyConfig.addCollection("courses", function (collection) {
+  eleventyConfig.addCollection("classes", function (collection) {
     /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
        - https://www.11ty.dev/docs/collections/
     */
 
     // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
     // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("course");
+    const coll = collection.getFilteredByTag("class");
 
     // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
     // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
     for (let i = 0; i < coll.length; i++) {
-      const prevCourse = coll[i - 1];
-      const nextCourse = coll[i + 1];
+      const prevClass = coll[i - 1];
+      const nextClass = coll[i + 1];
 
-      coll[i].data["prevCourse"] = prevPost;
-      coll[i].data["nextPost"] = nextPost;
+      coll[i].data["prevClass"] = prevClass;
+      coll[i].data["nextClass"] = nextClass;
     }
 
     return coll;

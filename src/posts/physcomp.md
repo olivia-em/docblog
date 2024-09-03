@@ -3,11 +3,20 @@ title: It's time to write some posts
 description: Add posts and your site build will publish them
 date: 2021-03-09
 tags:
-  - posts
+  - course
 layout: layouts/post.njk
 ---
 
-The body of your posts will be in Markdown. With Glitch, you can edit Markdown right in the editor, and the preview will update as you type. While you work you can switch between editing Markdown and seeing a preview of your formatted text by toggling the __Markdown__ button just above the editor window.
+The body of your posts w---
+title: It's time to write some posts
+description: Add posts and your site build will publish them
+date: 2021-03-09
+tags:
+  - course
+layout: layouts/post.njk
+---
+
+The body of your posts wll be in Markdown. With Glitch, you can edit Markdown right in the editor, and the preview will update as you type. While you work you can switch between editing Markdown and seeing a preview of your formatted text by toggling the __Markdown__ button just above the editor window.
 
 > 💡 Are the live updates to your site distracting you while you write or work? Go to the project menu in the top-left of your Glitch editor, and uncheck the box for **Refresh App on Changes**.
 
