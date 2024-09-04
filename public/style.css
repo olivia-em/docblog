@@ -93,10 +93,10 @@ body {
   margin: 4% 0 0 10%;
 }
 
-.home-content {
+.class-content {
   display: flex;
   flex-direction: column;
-  margin: 0 0 0 0;
+  margin: 0 0 0 10vw;
 }
 
 /* Typography */
@@ -120,7 +120,7 @@ h1 {
   margin-top: 1rem;
   margin-bottom: 1.75rem;
   font-size: 3.5rem;
-  display: inline-flex;
+  display: flex;
   justify-content: center;
   color: #f5eded;
 }
