@@ -204,6 +204,8 @@ a:hover {
   color: var(--color-primary);
   line-height: 1.1;
   margin-bottom: 2rem;
+/*   text-align: center;
+  justify-content: center; */
 }
 .controls {
   margin: 3rem 0 2rem;
