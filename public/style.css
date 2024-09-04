@@ -60,7 +60,7 @@ a:not(.btn--remix):visited {
   border-bottom: 2px solid var(--color-primary);
 }
 .footer a:hover {
-  background: var(--color-primary);
+/*   background: var(--color-primary); */
 }
 
 .footer .links {
@@ -155,7 +155,7 @@ a:not(.btn--remix):visited {
 }
 a:hover {
 /*   background: var(--color-primary); */
-  text-shadow: 0 0 5px #ff0000;
+  text-shadow: 0 0 5px var(--color-primary);
 }
 
 /* Title style adjustments */
