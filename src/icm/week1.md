@@ -1,7 +1,7 @@
 ---
 title: Week 1
-when: 2024-09-02
-layout: layouts/projects.njk
+when: September 5th, 2024
+layout: layouts/blog.njk
 tags:
   - icm
 ---

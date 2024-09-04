@@ -1,7 +1,7 @@
 ---
 title: Week 2
-when: 2024-09-09
-layout: layouts/projects.njk
+when: September 11th, 2024
+layout: layouts/blog.njk
 tags:
   - hype
 ---
