@@ -90,7 +90,7 @@ body {
   display: flex;
   flex-direction: column;
   max-width: 900px;
-  margin: 0 auto;
+  margin: 4% 0 0 10%;
 }
 
 /* Typography */
@@ -127,8 +127,9 @@ h3 {
 h4 {
   font-size: 1.5rem;
 }
-h5 {
-  font-size: 1.25rem;
+p {
+  font-size: 1rem;
+  color: #f5eded;
 }
 small,
 .text_small {
@@ -181,7 +182,8 @@ a:hover {
 
 /* Layout: Home */
 .home {
-  justify-content: left;
+/*   display: flex;
+  justify-content: center; */
 }
 .illo-container {
   display: flex;
