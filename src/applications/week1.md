@@ -1,9 +1,9 @@
 ---
 title: Week 1
-date: 08-02-2024
+date: 2024-09-02
 layout: layouts/projects.njk
 tags:
   - app
 ---
 
-hello there
+what the fuck is happening??????
