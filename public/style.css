@@ -11,7 +11,7 @@ to this section's matching END comment to see page-specific styles.
   --color-bg: #022169;
   --color-text-main: #f5eded;
   --color-primary: #f5eded;
-  --wrapper-height: 85vh;
+  --wrapper-height: 75vh;
   --image-max-width: 320px;
   --font-family: "HK Grotesk";
   --font-family-header: "HK Grotesk";
@@ -113,8 +113,10 @@ body {
 
 .class-content {
   display: flex;
-  flex-direction: column;
-  margin: 0 0 0 10vw;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0 0 0 0;
 }
 
 /* Typography */

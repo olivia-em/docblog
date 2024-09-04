@@ -7,4 +7,4 @@ layout: layouts/home.njk
 </div> -->
 
 
-### Fall 2024 @ ITP
+

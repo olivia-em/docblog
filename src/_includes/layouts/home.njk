@@ -10,13 +10,30 @@ templateClass: tmpl-home
     {{ content | safe }}
     
     {# After the the content defined in index.md, list the blog posts in the collection #}
+    <div>
+      <h4>
+      Fall 2024
+    </h4>
     <ul>
       {%- for class in collections.classes -%}
         <li{% if page.url == class.url %} aria-current="page"{% endif %}><a href='{{ class.url }}'>{{ class.data.title }}</a></li>
       {%- endfor -%}
 <!--       <li><a href="/classes">View all Classes</a></li> -->
     </ul>
-
+</div>
+    
+    <div>
+      <h4>
+      Projects
+    </h4>
+    <ul>
+      {%- for class in collections.classes -%}
+        <li{% if page.url == class.url %} aria-current="page"{% endif %}><a href='{{ class.url }}'>{{ class.data.title }}</a></li>
+      {%- endfor -%}
+<!--       <li><a href="/classes">View all Classes</a></li> -->
+    </ul>
+</div>
+    
   </div>
 </div>
 
