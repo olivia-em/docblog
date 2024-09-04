@@ -8,9 +8,12 @@ templateClass: tmpl-home
 <div class="wrapper home">
   <div class="class-content">
     {{ content | safe }}
-    
-    {# After the the content defined in index.md, list the blog posts in the collection #}
     <div>
+      <h5>  
+      Contact Info Incoming!</h5>
+    </div>
+    {# After the the content defined in index.md, list the blog posts in the collection #}
+    <div class="lists"><div>
       <h4>
       Fall 2024
     </h4>
@@ -18,7 +21,7 @@ templateClass: tmpl-home
       {%- for class in collections.classes -%}
         <li{% if page.url == class.url %} aria-current="page"{% endif %}><a href='{{ class.url }}'>{{ class.data.title }}</a></li>
       {%- endfor -%}
-<!--       <li><a href="/classes">View all Classes</a></li> -->
+
     </ul>
 </div>
     
@@ -27,12 +30,12 @@ templateClass: tmpl-home
       Projects
     </h4>
     <ul>
-      {%- for class in collections.classes -%}
-        <li{% if page.url == class.url %} aria-current="page"{% endif %}><a href='{{ class.url }}'>{{ class.data.title }}</a></li>
+      {%- for project in collections.projects -%}
+        <li{% if page.url == project.url %} aria-current="page"{% endif %}><a href='{{ project.url }}'>{{ project.data.title }}</a></li>
       {%- endfor -%}
-<!--       <li><a href="/classes">View all Classes</a></li> -->
+
     </ul>
-</div>
+      </div></div>
     
   </div>
 </div>
