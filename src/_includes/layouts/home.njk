@@ -6,7 +6,9 @@ templateClass: tmpl-home
 {# The Home page uses this template–it extends the base template #}
 
 <div class="wrapper home">
-  <div>
+  <h1>
+    Olivia's Doc Blog</h1>
+  <div class="home-content">
     {{ content | safe }}
     
     {# After the the content defined in index.md, list the blog posts in the collection #}
@@ -16,6 +18,7 @@ templateClass: tmpl-home
       {%- endfor -%}
 <!--       <li><a href="/classes">View all Classes</a></li> -->
     </ul>
+
   </div>
 </div>
 
