@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 2
 layout: layouts/projects.njk
 tags:
   - app
