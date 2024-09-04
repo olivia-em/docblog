@@ -13,7 +13,7 @@ tags:
     <h3 style="text-align: center;">
       Intro to Physical Computing
     </h3>
-    <ul>
+    <ul class="projects">
       {%- for pc in collections.pcs -%}
         <li{% if page.url == pc.url %} aria-current="page"{% endif %}> <a href='{{ pc.url }}'>{{ pc.data.title }}</a></li>
       {%- endfor -%}
