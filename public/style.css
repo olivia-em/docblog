@@ -49,6 +49,24 @@ to this section's matching END comment to see page-specific styles.
   flex-wrap: wrap;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0rem auto 0;
+  padding: 0rem 2rem 0rem 2rem;
+/*   width: 50%; */
+  flex-wrap: wrap;
+}
+
+h1.heading {
+  margin-top: 0.5rem;
+  margin-bottom: 0rem;
+  font-size: 2rem;
+  display: flex;
+  color: #f5eded;
+}
+
 .footer a:not(.btn--remix):link,
 a:not(.btn--remix):visited {
   font-family: HK Grotesk;
