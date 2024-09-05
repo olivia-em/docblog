@@ -62,7 +62,7 @@ to this section's matching END comment to see page-specific styles.
 h1.heading {
   margin-top: 0.5rem;
   margin-bottom: 0rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
   display: flex;
   color: #f5eded;
 }
@@ -112,6 +112,14 @@ body {
 }
 
 .class-content {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 0 0 0;
+}
+
+.grid-content {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

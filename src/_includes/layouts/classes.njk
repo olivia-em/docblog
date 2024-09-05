@@ -6,16 +6,33 @@ templateClass: tmpl-home
 {# This is the template for the Posts page–it lists the posts in the collection #}
 
 <div class="wrapper home">
-    <div class="class-content">
+  <div class="class-content">
+    <div class="grid-content">
     {{ content | safe }}
     
     {# After the the content defined in index.md, list the blog posts in the collection #}
-    <ul>
+    <div>
+      <h4>
+      Fall 2024
+    </h4><ul>
       {%- for fall2024 in collections.f24 -%}
         <li{% if page.url == fall2024.url %} aria-current="page"{% endif %}><a href='{{ fall2024.url }}'>{{ fall2024.data.title }}</a></li>
       {%- endfor -%}
 <!--       <li><a href="/classes">View all Classes</a></li> -->
     </ul>
+  </div>
+      
+      <div>
+      <h4>
+      Spring 2025
+    </h4><ul>
+      {%- for spring2025 in collections.s25 -%}
+        <li{% if page.url == spring2025.url %} aria-current="page"{% endif %}><a href='{{ spring2025.url }}'>{{ spring2025.data.title }}</a></li>
+      {%- endfor -%}
+<!--       <li><a href="/classes">View all Classes</a></li> -->
+    </ul>
+  </div>
+    </div>
   </div>
 </div>
 

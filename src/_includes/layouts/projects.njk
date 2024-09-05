@@ -6,6 +6,7 @@ templateClass: tmpl-home
 {# This is the template for individual blog posts–it builds the front matter properties into the page #}
 
 <div class="wrapper home">
+  <div class="grid-content">
     <div class="class-content">
     {{ content | safe }}
     
@@ -15,5 +16,6 @@ templateClass: tmpl-home
         <li{% if page.url == project.url %} aria-current="page"{% endif %}><a href='{{ project.url }}'>{{ project.data.title }}</a></li>
       {%- endfor -%}
     </ul>
+  </div>
   </div>
 </div>
