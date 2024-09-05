@@ -1,20 +1,11 @@
-/******************************************************************************
-START Glitch hello-app default styles
-
-The styles in this section do some minimal CSS resets, set default fonts and 
-colors, and handle the layout for our footer and "Remix on Glitch" button. If
-you're new to CSS they may seem a little complicated, but you can scroll down
-to this section's matching END comment to see page-specific styles.
-******************************************************************************/
-/* Our default values set as CSS variables */
 :root {
   --color-bg: #022169;
   --color-text-main: #f5eded;
   --color-primary: #f5eded;
   --wrapper-height: 75vh;
   --image-max-width: 320px;
-  --font-family: "HK Grotesk";
-  --font-family-header: "HK Grotesk";
+  --font-family: "Courier New";
+  --font-family-header: "Courier New";
 }
 
 /* Basic page style resets */
@@ -25,27 +16,13 @@ to this section's matching END comment to see page-specific styles.
   display: none !important;
 }
 
-/* Import fonts */
-@font-face {
-  font-family: HK Grotesk;
-  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
-    format("opentype");
-}
-@font-face {
-  font-family: HK Grotesk;
-  font-weight: bold;
-  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
-    format("opentype");
-}
-
-
 /* Navigation grid */
 .footer {
   display: flex;
   justify-content: center;
   margin: 0rem auto 0;
   padding: 0rem 0 0rem 0;
-/*   width: 50%; */
+  /*   width: 50%; */
   flex-wrap: wrap;
 }
 
@@ -55,7 +32,7 @@ to this section's matching END comment to see page-specific styles.
   align-items: flex-end;
   margin: 0rem auto 0;
   padding: 0rem 2rem 0rem 2rem;
-/*   width: 50%; */
+  /*   width: 50%; */
   flex-wrap: wrap;
 }
 
@@ -85,7 +62,6 @@ a:not(.btn--remix):visited {
   border-bottom: 2px solid var(--color-primary);
 }
 
-
 .footer .links {
   padding: 0.5rem 1rem 1.5rem;
   white-space: nowrap;
@@ -110,7 +86,7 @@ body {
   margin: 3rem 2rem 0;
 }
 .blog-content {
-/*   display: flex;
+  /*   display: flex;
   flex-direction: column; */
   max-width: 900px;
   margin: 0 auto;
@@ -144,7 +120,7 @@ h2,
 h3,
 h4,
 h5 {
-  margin: 2rem 0 .8rem;
+  margin: 2rem 0 0.8rem;
   font-family: var(--font-family-header);
   font-weight: 600;
   line-height: 1.1;
@@ -209,7 +185,7 @@ div.semesters {
   margin: 0 0 0 10%;
   list-style-type: none;
   display: grid;
-  grid-template-columns: 1fr 1fr ;
+  grid-template-columns: 1fr 1fr;
 }
 
 /* Link styles */
@@ -221,7 +197,7 @@ a:not(.btn--remix):visited {
   transition: background 0.2s linear;
 }
 a:hover {
-/*   background: var(--color-primary); */
+  /*   background: var(--color-primary); */
   text-shadow: 0 0 5px var(--color-primary);
 }
 
@@ -247,7 +223,7 @@ a.homebutton:not(.btn--remix):visited {
 
 /* Layout: Home */
 .home {
-/*   display: flex;
+  /*   display: flex;
   justify-content: center; */
 }
 .illo-container {
@@ -271,7 +247,7 @@ a.homebutton:not(.btn--remix):visited {
   color: var(--color-primary);
   line-height: 1.1;
   margin-bottom: 2rem;
-/*   text-align: center;
+  /*   text-align: center;
   justify-content: center; */
 }
 .controls {
