@@ -10,26 +10,12 @@ templateClass: tmpl-home
 <h3 style="text-align: center;">
       {{title}}
     </h3>
-    <h4 style="text-align: center;">
+    <h5 style="text-align: center;">
      <i>{{when}}</i>
-    </h4>
+    </h5>
 <div class="blog-content">
     {{ content | safe }}
      </div>
-    <div class="controls">
-    {# The previous and next post data is added in .eleventy.js #}
-    {% if prevPost.url %}
-      <p>
-        <strong>Previous post</strong>: 
-        <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>
-      </p>
-    {% endif %}
-    {% if nextPost.url %}
-      <p>
-        <strong>Next post</strong>: 
-        <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
-      </p>
-    {% endif %}
-    </div>
+    
   </div>
 </div>

@@ -5,3 +5,4 @@ layout: layouts/blog.njk
 tags:
   - pc
 ---
+###### [Physical Computing](/classes/physcomp/)

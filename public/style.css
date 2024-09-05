@@ -165,6 +165,10 @@ p {
   font-size: 1rem;
   color: #f5eded;
 }
+h6 {
+  font-size: 1rem;
+  text-align: center;
+}
 small,
 .text_small {
   font-size: 0.8rem;
