@@ -52,7 +52,7 @@ to this section's matching END comment to see page-specific styles.
 .header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-end;
   margin: 0rem auto 0;
   padding: 0rem 2rem 0rem 2rem;
 /*   width: 50%; */
@@ -105,10 +105,11 @@ body {
   margin: 3rem 2rem 0;
 }
 .blog-content {
-  display: flex;
-  flex-direction: column;
+/*   display: flex;
+  flex-direction: column; */
   max-width: 900px;
-  margin: 4% 0 0 10%;
+  margin: 0 auto;
+  justify-content: center;
 }
 
 .class-content {
