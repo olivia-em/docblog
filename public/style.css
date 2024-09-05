@@ -189,6 +189,14 @@ ul.projects {
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
+div.semesters {
+  padding: 0 0 0 0;
+  margin: 0 0 0 10%;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+}
+
 /* Link styles */
 a:not(.btn--remix):link,
 a:not(.btn--remix):visited {

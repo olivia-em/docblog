@@ -6,16 +6,16 @@ templateClass: tmpl-home
 {# This is the template for individual blog posts–it builds the front matter properties into the page #}
 
 <div class="wrapper home">
-  <div class="grid-content">
-    <div class="class-content">
+
     {{ content | safe }}
     
-    {# After the the content defined in index.md, list the blog posts in the collection #}
-    <ul>
+   <h3 style="text-align: center;">
+      Projects
+    </h3>
+    <ul class="projects">
       {%- for project in collections.projects -%}
         <li{% if page.url == project.url %} aria-current="page"{% endif %}><a href='{{ project.url }}'>{{ project.data.title }}</a></li>
       {%- endfor -%}
     </ul>
-  </div>
-  </div>
+
 </div>
