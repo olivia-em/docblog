@@ -3,7 +3,6 @@ layout: layouts/base.njk
 templateClass: tmpl-home
 ---
 
-{# This is the template for individual blog posts–it builds the front matter properties into the page #}
 
 <div class="wrapper home">
 
@@ -14,7 +13,8 @@ templateClass: tmpl-home
     </h3>
     <ul class="projects">
       {%- for project in collections.projects -%}
-        <li{% if page.url == project.url %} aria-current="page"{% endif %}><a href='{{ project.url }}'>{{ project.data.title }}</a></li>
+      <li{% if page.url == project.url %} aria-current="page"{% endif %} >
+        <a href='{{ project.url }}'>{{ project.data.title }}</a></li>
       {%- endfor -%}
     </ul>
 
