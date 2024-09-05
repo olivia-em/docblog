@@ -1,7 +1,7 @@
 :root {
-  --color-bg: #022169;
-  --color-text-main: #f5eded;
-  --color-primary: #f5eded;
+  --color-bg: #f5eded;
+  --color-text-main: #022169;
+  --color-primary: #022169;
   --wrapper-height: 75vh;
   --image-max-width: 320px;
   --font-family: "Courier New";
@@ -41,7 +41,8 @@ h1.heading {
   margin-bottom: 0rem;
   font-size: 1.5rem;
   display: flex;
-  color: #f5eded;
+  color: #022169;
+  border-bottom: 1.5px solid var(--color-primary);
 }
 
 div.subtitles {
@@ -132,7 +133,7 @@ h1 {
   font-size: 3.5rem;
   display: flex;
   justify-content: center;
-  color: #f5eded;
+  color: #022169;
 }
 h2 {
   font-size: 4rem;
@@ -145,7 +146,7 @@ h4 {
 }
 p {
   font-size: 1rem;
-  color: #f5eded;
+  color: #022169;
 }
 h5 {
   font-size: 0.9rem;
@@ -193,7 +194,7 @@ a:not(.btn--remix):link,
 a:not(.btn--remix):visited {
   text-decoration: none;
   border-bottom: 2px solid var(--color-primary);
-  color: #f5eded;
+  color: #022169;
   transition: background 0.2s linear;
 }
 a:hover {
@@ -205,13 +206,13 @@ a.homebutton:not(.btn--remix):link,
 a.homebutton:not(.btn--remix):visited {
   text-decoration: none;
   border-bottom: none;
-  color: #f5eded;
+  color: #022169;
   transition: background 0.2s linear;
 }
 
 /* Title style adjustments */
 .title-lg {
-  color: #f5eded;
+  color: #022169;
   font-family: HK Grotesk;
   font-style: normal;
   font-weight: bold;
