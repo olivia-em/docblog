@@ -10,9 +10,15 @@ templateClass: tmpl-home
 <h3 style="text-align: center;">
       {{title}}
     </h3>
-    <h5 style="text-align: center;">
+    
+    
+   <div class="subtitles">
+    <h5><a href='{{ url }}'>{{ class }}</a> </h5>
+
+    <h5>
      <i>{{when}}</i>
     </h5>
+      </div>
 <div class="blog-content">
     {{ content | safe }}
      </div>

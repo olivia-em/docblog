@@ -67,6 +67,13 @@ h1.heading {
   color: #f5eded;
 }
 
+div.subtitles {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .footer a:not(.btn--remix):link,
 a:not(.btn--remix):visited {
   font-family: HK Grotesk;
@@ -164,8 +171,13 @@ p {
   font-size: 1rem;
   color: #f5eded;
 }
+h5 {
+  font-size: 0.9rem;
+  text-align: center;
+  margin: 10px;
+}
 h6 {
-  font-size: 1rem;
+  font-size: 0.75rem;
   text-align: center;
 }
 small,
