@@ -42,7 +42,7 @@ h1.heading {
   font-size: 1.5rem;
   display: flex;
   color: #022169;
-  border-bottom: 2px solid var(--color-primary);
+  border-bottom: 1.5px solid var(--color-primary);
 }
 
 div.subtitles {

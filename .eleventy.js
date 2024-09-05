@@ -178,8 +178,8 @@ module.exports = function (eleventyConfig) {
 
     return coll;
   });
-
-  eleventyConfig.addCollection("f24", function (collection) {
+  
+    eleventyConfig.addCollection("f24", function (collection) {
     /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
        - https://www.11ty.dev/docs/collections/
     */
@@ -188,9 +188,10 @@ module.exports = function (eleventyConfig) {
     // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
     const coll = collection.getFilteredByTag("fall2024");
 
+
     return coll;
   });
-
+  
   eleventyConfig.addCollection("projects", function (collection) {
     /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
        - https://www.11ty.dev/docs/collections/
@@ -199,6 +200,7 @@ module.exports = function (eleventyConfig) {
     // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
     // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
     const coll = collection.getFilteredByTag("project");
+
 
     return coll;
   });
@@ -210,4 +212,4 @@ module.exports = function (eleventyConfig) {
       output: "build",
     },
   };
-}
+};
