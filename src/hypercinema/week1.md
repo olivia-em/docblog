@@ -8,4 +8,11 @@ tags:
   - hype
 ---
 
-hiya there
+
+#### Intro to Storytelling / Sound & Space
+
+After watching Pauline Oliveros's talk on hearing vs. listening, 
+
+
+
+
