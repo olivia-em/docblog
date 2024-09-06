@@ -8,4 +8,6 @@ tags:
   - app
 ---
 
-#### 
+#### Intro to Applications & <i>Well Played: The Origins and Future of Playfullness</i>
+
+

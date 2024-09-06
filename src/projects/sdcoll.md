@@ -8,4 +8,8 @@ tags:
   - project
 ---
 
-#### TBD
+#### Brainstorming
+
+<br>
+
+#### Plan
