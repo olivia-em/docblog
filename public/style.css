@@ -4,7 +4,7 @@
   --color-primary: #022169;
   --wrapper-height: 75vh;
   --image-max-width: 320px;
-  --font-family: "Courier New";
+  --font-family: "Verdana";
   --font-family-header: "Courier New";
 }
 
@@ -17,14 +17,6 @@
 }
 
 /* Navigation grid */
-.footer {
-  display: flex;
-  justify-content: center;
-  margin: 0rem auto 0;
-  padding: 0rem 0 0rem 0;
-  /*   width: 50%; */
-  flex-wrap: wrap;
-}
 
 .header {
   display: flex;
@@ -52,22 +44,6 @@ div.subtitles {
   justify-content: center;
 }
 
-.footer a:not(.btn--remix):link,
-a:not(.btn--remix):visited {
-  font-family: HK Grotesk;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 1.1rem;
-  color: var(--color-primary);
-  text-decoration: none;
-  border-bottom: 2px solid var(--color-primary);
-}
-
-.footer .links {
-  padding: 0.5rem 1rem 1.5rem;
-  white-space: nowrap;
-}
-
 .divider {
   padding: 0 1rem;
   color: var(--color-primary);
@@ -78,7 +54,7 @@ END Glitch hello-app default styles
 
 /* Page structure */
 body {
-  font-family: var(--font-family);
+  font-family: var(--font-family-header);
   background-color: var(--color-bg);
 }
 .wrapper {
@@ -116,7 +92,7 @@ p {
   line-height: 1.5 !important;
   font-size: 1rem;
   color: #022169;
-  font-weight: 700;
+  font-family: var(--font-family);
 }
 h1,
 h2,
@@ -210,17 +186,6 @@ a.homebutton:not(.btn--remix):visited {
   transition: background 0.2s linear;
 }
 
-/* Title style adjustments */
-.title-lg {
-  color: #022169;
-  font-family: HK Grotesk;
-  font-style: normal;
-  font-weight: bold;
-  line-height: 1.5;
-}
-.title-md {
-  font-size: 56px;
-}
 
 /* Layout: Home */
 .home {
