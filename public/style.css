@@ -204,6 +204,11 @@ a.homebutton:not(.btn--remix):visited {
   transform: rotate(16deg);
 }
 
+.footer {
+  width: 100%;
+  height: 5vh;
+}
+
 /* Post */
 .post {
   place-items: normal;
