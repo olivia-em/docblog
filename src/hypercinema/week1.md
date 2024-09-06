@@ -20,4 +20,12 @@ Your understanding is no longer just about how the sound makes you feel or what 
 
 <br>
 
-Conveniently, as I'm starting the Sound Design article with Haley Shaw, 
+Conveniently, as I'm starting the Sound Design article with Haley Shaw, I've noticed that they're opening with <i>intended feeling.</i>
+Already, this perfectly goes along with what I was saying above, because now I'm getting an idea of how a sound-creator is thinking. I like the idea
+of working left of center, doing something that isn't on the nose but still belongs. That can go for any creative project, if desired.
+
+<br>
+
+##### Project One: Collecting Sounds
+
+In the next two weeks, my group and I will be working on this first project. We've talked about doing the option where we imagine a sound installtion. 
