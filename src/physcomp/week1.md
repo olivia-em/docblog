@@ -31,6 +31,11 @@ and any upgrades to them would be expected and not very interesting in the end. 
 isn't intentional scent or feeling. A lot of these futuristic devices are interested in virtual reality as well, with VR glasses, livable VR worlds being developed. That direction feels incredibly escapist. Why are we creating a new world to live in, which is arguably worse than physical reality because of the lack of sensation. You're losing aspects 
 of bodily autonomy and human experience (which I think would be psychologically detrimental over time). Instead, we should be thinking of technologies that enhance the world we live in. Now that I'm thinking of it, 4Dx movie theaters (although not really a tool) are a great example of taking media and making it more real as you experience it. It purposefully tries to access all your senses to make you feel absorbed. 
 Now I'm definitely going to be thinking about how the things I create enhance reality rather than detach from it. 
-<br>
+<br><br>
 ##### Timo Arnall on the fallacy of invisible interfaces
-hello
+My very first thought reading this was the creation of screen protectors that feel like paper when you write on them with a stylus. There is clearly a market for users who want their devices to feel more life like. I think there is lately an obsession with touchscreens for touchscreens sake currently. I mean, I've seen
+vapes with touchscreens. Apple was (I think) considering putting touchscreens back onto airpods (basically backtracking to the ipod). However, I believe that the reality of touchscreens is that they were the result of trying to create interfaces that were more convenient than a computer, could hold more data than just one book or magazine. How can I carry all my books with me? How can I read the news on the go, without having to sit at a desktop. 
+The goal was convenience, the result was smart phones and tablets, and touchscreens got us from goal to result. Now, touchscreens seem to indicate that any device with one is convenient or cool, but the reality is that they aren't always necessary and they have the ability to overcomplicate a device. Not every device has to be 'smart'. I mean putting a touchscreen on a vape is like putting one on a hammer... there really isn't a point. I don't need to be able to search the web on every object that I pick up. 
+That's so dystopian. 
+<br>
+I
