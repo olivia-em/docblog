@@ -19,7 +19,14 @@ We used a children's toy as an interface for choosing settings or to help you de
   <img class="blog-img" alt="Fantasy Device: Food 3D Printer (Sketch)" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/FD-sketch.jpg?v=1725903968920">
 <img class="blog-img" alt="Fantasy Device: Food 3D Printer" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/fantasydevice.jpg?v=1725902818753">
   </div><br>
-  
+
+#### Labs
+arduino :(
+
 #### Readings
+
 ##### Bret Victor, <i>A Brief Rant on the Future of Interaction Design</i>
+This was an incredibly interesting read; I definitely agree that the future interfaces he's talking about are boring. Mostly because they basically exist already,
+and any upgrades to them would be expected and not very interesting in the end. One of the failings of touch screens, tablets, and smart devices is the inability to interact with the 
 ##### Timo Arnall on the fallacy of invisible interfaces
+hello
