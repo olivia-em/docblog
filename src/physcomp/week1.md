@@ -23,12 +23,14 @@ We used a children's toy as an interface for choosing settings or to help you de
 
 #### Labs
 
-arduino :(
+These labs were already pretty difficult for me. I'm not very good with electricity and I'm not great at memorizing terminology and equations. I now understand the very basics of creating a circuit, but I still need to work on figuring out / remembering the use cases of parts and the diagrams. 
+It wasn't helpful that a number of the arduino images in the labs were showing breadboards being powered by a DC adapter w/ a battery rather than the arduino plugged into the computer, so when I was setting mine up I got confused.. I'm feeling pretty nervous to move into the next labs, because this should be simple and I'm already having trouble understanding. When we start to bring code into it, I'm worried that I'll quickly get lost. 
+Overall, I'm going to keep reviewing the material and asking for help until more of it sticks. 
 
 <br><div class="img-div">
-<img class="blog-img" alt="Fantasy Device: Food 3D Printer (Sketch)" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/FD-sketch.jpg?v=1725903968920">
-<img class="blog-img" alt="Fantasy Device: Food 3D Printer" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/fantasydevice.jpg?v=1725902818753">
-
+<img class="blog-img" alt="multimeter test on arduino" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/multimeter.jpg?v=1725907231974">
+<img class="blog-img" alt="arduino circuit with LED lit up" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/LED.jpg?v=1725907226697">
+  <img class="blog-img" alt="arduino circuit with LED and button turning it off and on" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/switch.gif?v=1725907222162">
   </div><br>
 
 #### Readings
