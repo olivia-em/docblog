@@ -26,7 +26,11 @@ arduino :(
 #### Readings
 
 ##### Bret Victor, <i>A Brief Rant on the Future of Interaction Design</i>
-This was an incredibly interesting read; I definitely agree that the future interfaces he's talking about are boring. Mostly because they basically exist already,
-and any upgrades to them would be expected and not very interesting in the end. One of the failings of touch screens, tablets, and smart devices is the inability to interact with the 
+This was an incredibly interesting read; I agree that the future interfaces he's talking about are boring. Mostly because they basically exist already,
+and any upgrades to them would be expected and not very interesting in the end. One of the failings of touch screens, tablets, and smart devices is the inability to dig in with all the senses. You can listen to music, you can see (but mostly in 2D), but there
+isn't intentional scent or feeling. A lot of these futuristic devices are interested in virtual reality as well, with VR glasses, livable VR worlds being developed. That direction feels incredibly escapist. Why are we creating a new world to live in, which is arguably worse than physical reality because of the lack of sensation. You're losing aspects 
+of bodily autonomy and human experience (which I think would be psychologically detrimental over time). Instead, we should be thinking of technologies that enhance the world we live in. Now that I'm thinking of it, 4Dx movie theaters (although not really a tool) are a great example of taking media and making it more real as you experience it. It purposefully tries to access all your senses to make you feel absorbed. 
+Now I'm definitely going to be thinking about how the things I create enhance reality rather than detach from it. 
+<br>
 ##### Timo Arnall on the fallacy of invisible interfaces
 hello
