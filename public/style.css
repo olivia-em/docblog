@@ -86,6 +86,15 @@ body {
   margin: 0 0 0 0;
 }
 
+.grid-socials {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 0 0 0 0;
+}
+
 /* Typography */
 p {
   margin: 0 0 1rem 0;
