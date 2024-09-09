@@ -240,3 +240,12 @@ a.homebutton:not(.btn--remix):visited {
   flex-wrap: wrap;
   flex-direction: row;
 }
+
+.home-img {
+  max-width: 40vw;
+  min-width: 20vh;
+  max-height: var(--image-max-width);
+  margin-right: 2vw;
+  margin-left: 2vw;
+  margin-top: 2vw;
+}
