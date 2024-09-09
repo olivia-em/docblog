@@ -7,3 +7,7 @@ url: /classes/physcomp/
 tags:
   - pc
 ---
+
+#### Fantasy Device
+
+
