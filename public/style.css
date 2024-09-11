@@ -250,10 +250,17 @@ a.homebutton:not(.btn--remix):visited {
 }
 
 .icon {
-  max-width: 5vw;
-  min-width: 5vh;
+  max-width: 25px;
+  min-width: 25px;
   max-height: var(--image-max-width);
-  margin: 0;
+  margin-right: 10px;
+}
+
+div.title {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
 }
 
 .socials {
