@@ -249,6 +249,13 @@ a.homebutton:not(.btn--remix):visited {
   margin: 2vw;
 }
 
+.icon {
+  max-width: 5vw;
+  min-width: 5vh;
+  max-height: var(--image-max-width);
+  margin: 0;
+}
+
 .socials {
   display: flex;
   justify-content: center;
