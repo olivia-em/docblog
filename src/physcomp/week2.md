@@ -8,15 +8,13 @@ tags:
   - pc
 ---
 
-#### TBD
-
-<br><div class="img-div">
-<img class="blog-img" alt="" src="">
-<img class="blog-img" alt="" src="">
-
-  </div><br>
-
 #### Labs
+
+I felt way more comfortable working on this week's labs, becuase I had a better understanding of circuits once we had class. Seeing an llustration of the relationship between
+voltage, resistance, and current really helped me understand those concepts more. I do really well having the diagrams in the labs, but I definitley worry that I wouldn't be able 
+recreate a circuit without that help, so that's something I want to work on moving forward. I did have a couple mishaps; I miswired the potentiometer and it started smoking a little bit.
+I didn't realize that the outside prongs had to be the ones connected to power and ground, so that was my mistake there. I also stabbed myself with a wire at some point, so I was bleeding a bit. Funnily enough, I burned myself 
+
 
 <br><div class="img-div">
 
