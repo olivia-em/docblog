@@ -48,6 +48,9 @@ during week one, so I'm excited to see what injury I inflict upon myself next. O
 
 ##### Tom Igoe, <i>Physical Computing's Greatest Hits (and Misses)</i>
 
+This was a useful read for me, because I feel like I'm lacking in creativity for this course. It's reassuring to hear that an idea doesn't have to be 
+completely revolutionary in order to be original.  
+
 <br><br>
 
 ##### Don Norman, <i>Design of Everyday Things</i> & <i>Emotional Design: Attractive Things Work Better</i>
