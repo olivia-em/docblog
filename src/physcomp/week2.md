@@ -48,8 +48,12 @@ during week one, so I'm excited to see what injury I inflict upon myself next. O
 
 ##### Tom Igoe, <i>Physical Computing's Greatest Hits (and Misses)</i>
 
-This was a useful read for me, because I feel like I'm lacking in creativity for this course. It's reassuring to hear that an idea doesn't have to be 
-completely revolutionary in order to be original.  
+This was a useful read for me, because I feel like I'm lacking in creativity for this course. I don't have a background in this, so learning the basics is my focus. However, that means what I'm making wouldn't necessarily be 
+impressive. I mean, it's impressive to me to be able to do any of it at all, but when it comes time for the midterm... I want to do something that will at least be cool.
+It's reassuring to hear that an idea doesn't have to be completely revolutionary in order to be original. This reading also spelled out the different categories I could work with/in, and that has already given me some direction as to what things I find interesting.
+Lastly, I like the idea that robotics is complementary to but not exactly the same as physical computing. I had orginally imagined physical computing to be a precursor to something like robotics, which doesn't really pay PCOMP what its due. It's not hierarchical, rather a discipline with its own identity. 
+There is also an emphasis interactivity as being an important aspect of physical computing, which isn't something I had considered. 
+
 
 <br><br>
 
