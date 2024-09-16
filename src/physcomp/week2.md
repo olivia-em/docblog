@@ -11,18 +11,37 @@ tags:
 #### Labs
 
 I felt way more comfortable working on this week's labs, becuase I had a better understanding of circuits once we had class. Seeing an llustration of the relationship between
-voltage, resistance, and current really helped me understand those concepts more. I do really well having the diagrams in the labs, but I definitley worry that I wouldn't be able 
+voltage, resistance, and current really helped me understand those concepts more. I do really well having the diagrams in the labs, but I definitely worry that I wouldn't be able 
 recreate a circuit without that help, so that's something I want to work on moving forward. I did have a couple mishaps; I miswired the potentiometer and it started smoking a little bit.
 I didn't realize that the outside prongs had to be the ones connected to power and ground, so that was my mistake there. I also stabbed myself with a wire at some point, so I was bleeding a bit. Funnily enough, I burned myself 
-
+during week one, so I'm excited to see what injury I inflict upon myself next. Otherwise, I'm getting the hang of things through trial and error, I just need to work on replicating work without visual instructions. 
 
 <br><div class="img-div">
 
-<img class="blog-img" alt="breadboard with LED changing based on potentiometer" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3185.gif?v=1726510756772">
+<div class="img-cont">
+  <img class="blog-img" alt="breadboard with LED changing based on potentiometer" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3185.gif?v=1726510756772">
+  <h5>
+    Lab: Analog Input
+  </h5>
+  </div>
+  <div class="img-cont">
 <img class="blog-img" alt="close-up on potentiometer" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3186.JPG?v=1726510766454">
-<img class="blog-img" alt="breadboard with button, and the code is counting the number of times pressed" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3187.gif?v=1726510773391">
-<img class="blog-img" alt="breadboard with LED changing from red to blue" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3181.gif?v=1726510745907">
-
+<h5>
+    Lab: Analog Input
+  </h5>
+     </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="breadboard with button, and the code is counting the number of times pressed" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3187.gif?v=1726510773391">
+<h5>
+    Lab: Sensor Detection
+  </h5>
+     </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="breadboard with LED changing from red to blue" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3181.gif?v=1726510745907">
+<h5>
+    Lab: Digital Input & Output
+  </h5>
+     </div>
   </div><br>
 
 #### Readings
