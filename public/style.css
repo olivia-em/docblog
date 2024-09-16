@@ -232,6 +232,7 @@ a.homebutton:not(.btn--remix):visited {
   max-height: var(--image-max-width);
   margin-right: 2vw;
   margin-left: 2vw;
+  margin-bottom: 
 }
 
 .img-div {
