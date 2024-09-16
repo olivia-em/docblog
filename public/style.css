@@ -249,6 +249,12 @@ a.homebutton:not(.btn--remix):visited {
   flex-direction: row;
 }
 
+@media screen and (max-width: 615px) {
+  .img-div {
+    flex-direction: column;
+  }
+}
+
 .home-img {
   max-width: 20vw;
   min-width: 40vh;
