@@ -21,19 +21,22 @@ Does that change the way the audience inhabits the space? I'll bring this up whe
 
 ##### Week #2
 
-As a group, we decided to combine both Option B (creating new sounds for a preexisting system) and Option C (design a sound installation) for our project. We thought a bathroom tour, where the sounds are replaced with those from a kitchen, would be kind cool. In both spaces, an individual 
-often has a set routine that they follow, and they probably get used to the sounds that they expect to hear and might even tune them out. We were thinking about the Haley Shaw reading, where she creates scores that go "left of center." In the same vein, we wanted to use sounds that are either similar to the ones being replaced or created 
+As a group, we decided to combine both Option B (creating new sounds for a preexisting system) and Option C (design a sound installation) for our project. We thought a bathroom tour, where the sounds are replaced with those from a kitchen, would be kind cool. In both spaces, an individual
+often has a set routine that they follow, and they probably get used to the sounds that they expect to hear and might even tune them out. We were thinking about the Haley Shaw reading, where she creates scores that go "left of center." In the same vein, we wanted to use sounds that are either similar to the ones being replaced or created
 through similar motions/actions. We wanted to explore how changing spatial noise might affect the routine of the user and/or if there would be changes that are more or less obvious.
 
 <div class="img-div">
 <div class="img-cont">
 <img class="blog-img" alt="notes with project ideas" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3219.jpg?v=1726602718602">
-</div></div>
+<h5>
+    Initial Planning
+  </h5>
+  </div></div>
 
 #### Collecting Sounds
 
-Our group was initially just me, Justin, and Vedang, so we each collected two sounds from our respective kitchens, which correlated with the ones we wanted to include in the installation. I did the fridge ventilation (i.e. bathroom fan) and the spong scrubbing (i.e. brushing teeth). 
-Justin edited together the recordings over the weekend (9/14/24). 
+Our group was initially just me, Justin, and Vedang, so we each collected two sounds from our respective kitchens, which correlated with the ones we wanted to include in the installation. I did the fridge ventilation (i.e. bathroom fan) and the spong scrubbing (i.e. brushing teeth).
+Justin edited together the recordings over the weekend (9/14/24).
 
 <div class="img-div"><div class="vid-aud">
   <audio controls src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Fridge%20Recording%20(Hypercinema).m4a?v=1726596943748"></audio>
@@ -45,17 +48,19 @@ Justin edited together the recordings over the weekend (9/14/24).
   </div>
 <div class="vid-aud">
   <audio controls src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/9.12-full-audio-mix.wav?v=1726603187083"></audio>
-  <h5>Full Audio Tour</h5>
+  <h5>Full Audio Cut</h5>
   </div></div>
 
 #### Execution
 
-Niki joined our group half-way through the project, since she tranferred 
+Originally we had planned to do some sort of slides presentation because a visual component seemed necessary. However, a slide show wouldn't really emulate the experience of an installation and we decided to rethink.
+Thankfully, Niki joined our group during the second week of the project and had experience in illustration and video editing (yay!). She designed the isometric bathroom floor plan,
+and created a video in Adobe After Effects that we could use to present the audio cut in a fun way. Lastly, Vedang and I worked on doing a write-up for our presentation. I've attached the deliverables below!
 
 <div>
   <div class="vid-aud">
-  <audio controls src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/9.12-full-audio-mix.wav?v=1726603187083"></audio>
-  <h5>Full Audio Tour</h5>
+  
+  <h5>Full Video Tour</h5>
   </div>
 <div class="img-cont">
   <a alt="presentation write-up" target="_blank" href="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Hypercinema-SoundCollage.pdf?v=1726602893968">Presentation Write-up</a>
