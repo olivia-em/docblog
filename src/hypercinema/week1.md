@@ -28,7 +28,7 @@ of working left of center, doing something that isn't on the nose but still belo
 
 ##### Project One: Collecting Sounds
 
-In the next two weeks, Justin, Vedang, and I will be working on this first project. We've talked about doing the option where we imagine a sound installtion.
+In the next two weeks, Justin, Vedang, and I will be working on this first project. We've talked about doing the option where we imagine a sound installation.
 Vedang brought up focusing on environments that are supposed to be quiet, like museums, galleries, libraries, or the quiet car of a train. I've been brainstorming, and
 I think it would be cool to create a version of one of those places. Instead of the audience using the space to look at paintings or read a book, they need to think about how these
 aren't actually silent spaces. They may be quiet, but there is still some sort of spatial noise that is affecting the experience. How does the spatial noise change the way you inhabit a space? Maybe we could compare a gallery

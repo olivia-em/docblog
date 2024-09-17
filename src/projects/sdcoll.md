@@ -21,7 +21,9 @@ Does that change the way the audience inhabits the space? I'll bring this up whe
 
 ##### Week #2
 
-As a group, we decided to combine both Option B (creating new sounds for a preexisting system) and Option C (design a sound installation) for our project. We thought a bathroom tour, where the sounds are replaced with 
+As a group, we decided to combine both Option B (creating new sounds for a preexisting system) and Option C (design a sound installation) for our project. We thought a bathroom tour, where the sounds are replaced with those from a kitchen, would be kind cool. In both spaces, an individual 
+often has a set routine that they follow, and they probably get used to the sounds that they expect to hear and might even tune them out. We were thinking about the Haley Shaw reading, where she creates scores that go "left of center." In the same vein, we wanted to use sounds that are either similar to the ones being replaced or created 
+through similar motions/actions. We wanted to explore how changing spatial noise might affect the routine of the user and/or if there would be changes that are more or less obvious.
 
 <div class="img-div">
 <div class="img-cont">
@@ -30,6 +32,9 @@ As a group, we decided to combine both Option B (creating new sounds for a preex
 
 #### Collecting Sounds
 
+Our group was initially just me, Justin, and Vedang, so we each collected two sounds from our respective kitchens, which correlated with the ones we wanted to include in the installation. I did the fridge ventilation (i.e. bathroom fan) and the spong scrubbing (i.e. brushing teeth). 
+Justin edited together the recordings over the weekend (9/14/24). 
+
 <div class="img-div"><div class="vid-aud">
   <audio controls src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Fridge%20Recording%20(Hypercinema).m4a?v=1726596943748"></audio>
   <h5>Fridge Ventilation</h5>
@@ -37,9 +42,15 @@ As a group, we decided to combine both Option B (creating new sounds for a preex
 <div class="vid-aud">
   <audio controls src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Sponge%20Scrubbing%20(Hypercinema).m4a?v=1726596948264"></audio>
   <h5>Sponge Scrubbing</h5>
+  </div>
+<div class="vid-aud">
+  <audio controls src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/9.12-full-audio-mix.wav?v=1726603187083"></audio>
+  <h5>Full Audio Tour</h5>
   </div></div>
 
 #### Execution
+
+Niki joined our group half-way through the project, since she tranferred 
 
 <div>
   <div class="vid-aud">
