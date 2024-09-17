@@ -57,3 +57,5 @@ PCOMP not as advanced or difficult? That doesn't really seem right to me anyway.
 <br>
 
 ##### Don Norman, <i>Design of Everyday Things</i> & <i>Emotional Design: Attractive Things Work Better</i>
+
+I liked this reading a lot, but I didn't have time to compile thoughts! Maybe I'll come back later...
