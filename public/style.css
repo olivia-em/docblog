@@ -284,3 +284,12 @@ div.title {
   flex-wrap: wrap;
   flex-direction: row;
 }
+
+.vid-aud {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+/*   flex-wrap: wrap; */
+  flex-direction: column;
+  margin: 2vw;
+}
