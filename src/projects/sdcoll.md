@@ -9,9 +9,10 @@ tags:
 ---
 
 #### Brainstorming
-
-<br>
-
+<div>
+<div class="img-cont">
+<img class="blog-img" alt="notes with project ideas" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3219.jpg?v=1726602718602">
+</div></div>
 #### Collecting Sounds
 
 <div class="vid-aud">
