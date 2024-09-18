@@ -55,11 +55,14 @@ Justin edited together the recordings over the weekend (9/14/24).
 
 Originally we had planned to do some sort of slides presentation because a visual component seemed necessary. However, a slide show wouldn't really emulate the experience of an installation and we decided to rethink.
 Thankfully, Niki joined our group during the second week of the project and had experience in illustration and video editing (yay!). She designed the isometric bathroom floor plan,
-and created a video in Adobe After Effects that we could use to present the audio cut in a fun way. Lastly, Vedang and I worked on doing a write-up for our presentation. I've attached the deliverables below!
+and created a video in Adobe After Effects that we could use to present the audio cut in a fun way. Vedang and I worked on doing a write-up for our presentation. I've attached the deliverables below!
 
 <div>
   <div class="vid-aud">
-  
+  <video width="320" height="200" controls>
+  <source src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/SoundCollageVideo.mov?v=1726661938685" >
+Your browser does not support the video tag.
+</video>
   <h5>Full Video Tour</h5>
   </div>
 <div class="img-cont">
