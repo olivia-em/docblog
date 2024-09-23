@@ -38,3 +38,9 @@ These labs were super fun to execute because they provided some inspiration for 
 ##### <i>The Design of Implicit Systems;</i> Ju & Leifer
 ##### <i>On the Navy Replacing Touchscreens;</i> Andrew Litpak
 ##### <i>There Is No "Technology Industry";</i> Anil Dash
+
+I had three coherent thoughts after reading these articles. First, I don't question the obnoxious technology in my life enough. Second, just
+something new, cool, and sleek is invented, it doesn't mean that it is inherently better or more efficient than the previous iteration. Lastly, 
+it actually isn't useful to talk about the 'tech industry' and the times that I do use that general term is when I specifically don't understand / cannot
+explain the work I do / want to do. This is probably a character flaw that I should fix, but I think it's interesting that I use it to be vague on purpose.
+
