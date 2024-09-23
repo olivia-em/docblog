@@ -1,6 +1,6 @@
 ---
 title: Week 2
-when: September 10rd, 2024
+when: September 10th, 2024
 layout: layouts/blog.njk
 class: Physical Computing
 url: /classes/physcomp/
