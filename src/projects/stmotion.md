@@ -22,15 +22,15 @@ the private rooms. I'm still not super happy about how dark the video is, but ne
 
 <div class="img-div">
 <div class="img-cont">
-  <img class="blog-img" alt="" src="">
+  <img class="blog-img" alt="sped up gif of Taegen and Olivia filming" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_2547.gif?v=1727202676876">
   <h5>
     Filming Process
   </h5>
   </div>
 <div class="img-cont">
-  <img class="blog-img" alt="" src="">
+  <img class="blog-img" alt="two polaroid pictures of us at the end of filming" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3392.JPG?v=1727202683850">
   <h5>
-    Polaroid of Taegen and Olivia (me)
+    Polaroids of Taegen and Olivia (me)
   </h5>
   </div>
 </div>
