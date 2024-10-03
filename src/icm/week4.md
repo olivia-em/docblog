@@ -12,11 +12,15 @@ tags:
 
 This assignment was really interesting for me, because it was less about getting to see exactly what I wanted and more about discovering
 something cool through experimentation and the ways small changes could affect the bigger picture. I had messsed around with a couple ideas,
-like a puzzle that pieced itself together. I remember learning about tessellation in fourth grade, and I wanted to do some thing like that. However, 
-a lot of tessellation is very fixed, and in the process of creating it, you as the creator kind of know exactly what you're going to get. And, I wanted 
-to be just as surprised as someone who just came across my code. 
+like a puzzle that pieced itself together. I remember learning about tessellation in fourth grade, and I wanted to do some thing like that. However,
+a lot of tessellation is very fixed, and in the process of creating it, you as the creator kind of know exactly what you're going to get. And, I wanted
+to be just as surprised as someone who just came across my code.
 <br><br>
-So then I thought, what if I had the same type of shape across many cells, but the oritentation was random and constantly changing, along with 
-style properties like color. This way, the pattern would be new. I started off by just designing my intital shape in the center of the screen, a square with 
-a circle and quarter circle inside. I then put it into a for loop, where every four iterations the square would have a different orientation. I struggle with this part a lot, 
-and had to ask for 
+So then I thought, what if I had the same type of shape across many cells, but the oritentation was random and constantly changing, along with
+style properties like color. This way, the pattern would be new. I started off by just designing my intital shape in the center of the screen, a square with
+a circle and quarter circle inside. I then put it into a for loop, where every four iterations the square would have a different orientation. I struggled with this part a lot,
+and had to ask for help. Using <i>translate</i> was a bit difficult because it was sort affecting the grid as a whole, rather than individual squares. When David (professor, thank you!) sent me
+some edited code, it was super helpful. In reality, it wasn't exactly what I had wanted, but I was ok with that because this project was about surprising myself
+with results that made me happy. After situating that, I added random color pallettes and also made it so that people could change the framerate or grid size easily at the top
+of the code. I also though it would cute to have a save button if someone really liked one. That isn't super difficult code, and I found someone's documentation for that to help. Overall, super happy
+with this project, especially that aha feeling when a patter you particularly like pops up on the screen.
