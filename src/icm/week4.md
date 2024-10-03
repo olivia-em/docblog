@@ -23,4 +23,4 @@ and had to ask for help. Using <i>translate</i> was a bit difficult because it w
 some edited code, it was super helpful. In reality, it wasn't exactly what I had wanted, but I was ok with that because this project was about surprising myself
 with results that made me happy. After situating that, I added random color pallettes and also made it so that people could change the framerate or grid size easily at the top
 of the code. I also though it would cute to have a save button if someone really liked one. That isn't super difficult code, and I found someone's documentation for that to help. Overall, super happy
-with this project, especially that aha feeling when a patter you particularly like pops up on the screen.
+with this project, especially that aha feeling when a pattern you particularly like pops up on the screen.
