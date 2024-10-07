@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Week 3
 when: September 17th, 2024
 layout: layouts/blog.njk
 class: Physical Computing
