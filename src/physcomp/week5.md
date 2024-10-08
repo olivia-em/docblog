@@ -12,7 +12,7 @@ tags:
 
 I didn't really understand how controling speed vs. direction worked until I saw one of the schematics (figure 10) in the reading. The H-bridge
 figure made it clear how alternating the closed and open transistors would reverse the polarity of the motor. There were a few things
-I do have a few questions about; I didn't understand how to find / what the difference is between a unipolar and bipolar stepper motor. Also, why 
+I do have a few questions about; I didn't understand the different use cases for a bipolar vs. unipolar stepper motor. Also, why 
 is it better to use a transistor instead of a relay when powering a a DC motor, if relays don't require a protection diode?
 
 #### Readings
@@ -28,5 +28,13 @@ together. This is especially the case when you want to fasten with a press fit j
 and expansion for posts. I digress, the emphasis on the lack of precision in measurements is really important to understand when trying to rapid prototype, and would definitely be the thing I adjust for time-wise. 
 You absolutely cannot expect your first design to do what you want it to, even if your models are "precise and accurate."
 
+#### Midterm
+
+Kalinda and I are working on trying to get our arduino to interact with some sort of javascript visualization. We're purchasing (or have already
+purchased) different kinds of sensors that might be fun for non-tactile interaction, namely audio and ultra-sonic sensors. At first we tried to recreate a 
+[visualization project](https://www.arduino.cc/education/visualization-with-arduino-and-processing/) that uses Processing, but we faced some issues trying to get 
+Processing and Arduino IDE to talk to eachother. We thought it was a problem with getting the right serial port name, but even then, we couldn't get the interaction to work. 
+Kalinda then replicated a lab that's coming up in a few weeks that connect p5.js and the arduino, using a potentiometer. This seems really promising, but it's a little black-boxy
+because we don't really understand how p5 knows that its getting data from the A0 pin. Once we figure that out, we thi
 
 
