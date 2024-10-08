@@ -35,6 +35,9 @@ purchased) different kinds of sensors that might be fun for non-tactile interact
 [visualization project](https://www.arduino.cc/education/visualization-with-arduino-and-processing/) that uses Processing, but we faced some issues trying to get 
 Processing and Arduino IDE to talk to eachother. We thought it was a problem with getting the right serial port name, but even then, we couldn't get the interaction to work. 
 Kalinda then replicated a lab that's coming up in a few weeks that connect p5.js and the arduino, using a potentiometer. This seems really promising, but it's a little black-boxy
-because we don't really understand how p5 knows that its getting data from the A0 pin. Once we figure that out, we thi
+because we don't really understand how p5 knows that its getting data from the A0 pin. Once we figure that out (we've scheduled some office hours to ask about that), we're probably going to have 2-3 types of interaction 
+that will change p5.js visuals. I'm happy about changing to p5 from Processing, because that's something we already have experience in from ICM, while Processing required learning a somehwhat different
+syntax that may have been too much to do at this point for our project. Also, I'm thinking I'd like to build something to contain the circuit, like some sort of box or board where only the sensors are visible/accessible, 
+but we'll probably do that after we finalize the set-up and start coding in p5. 
 
 
