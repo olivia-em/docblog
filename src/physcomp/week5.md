@@ -10,10 +10,10 @@ tags:
 
 #### High Current Loads
 
-After going through the assignment materials, I do have a few questions. 
-<br><br>
-Why is it better to use a transistor instead of a relay when powering a a DC motor, if 
-
+I didn't really understand how controling speed vs. direction worked until I saw one of the schematics (figure 10) in the reading. The H-bridge
+figure made it clear how alternating the closed and open transistors would reverse the polarity of the motor. There were a few things
+I do have a few questions about; I didn't understand how to find / what the difference is between a unipolar and bipolar stepper motor. Also, why 
+is it better to use a transistor instead of a relay when powering a a DC motor, if relays don't require a protection diode?
 
 #### Readings
 
