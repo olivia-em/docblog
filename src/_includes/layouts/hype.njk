@@ -14,7 +14,7 @@ tags:
     </h3>
     <ul class="projects">
       {%- for hype in collections.hypes -%}
-        <li{% if page.url == hype.url %} aria-current="page"{% endif %}> <a href='{{ hype.url }}'>{{ hype.data.title }}</a></li>
+        <li class="projects" {% if page.url == hype.url %} aria-current="page"{% endif %}> <a href='{{ hype.url }}'>{{ hype.data.title }}</a></li>
       {%- endfor -%}
     </ul>
   </div>
