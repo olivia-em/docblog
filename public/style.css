@@ -158,11 +158,12 @@ ul {
 }
 
 ul.projects {
-  padding: 0 0 0 18px;
-  margin: 5% 0 0 10%;
+  padding: 0 0 0 0;
+  margin: 2% 0 0 0;
   list-style-type: none;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-items:center;
 }
 
 li.projects {
