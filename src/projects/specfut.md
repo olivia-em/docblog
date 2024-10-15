@@ -8,7 +8,7 @@ tags:
   - project
 ---
 
-#### Brainstorming
+#### Brainstorming & Filming Clips
 
 <div class="img-div">
 <div class="img-cont">
@@ -43,7 +43,7 @@ tags:
   </div>
 </div>
 
-#### Filming
+#### Editing
 
 <div class="img-div">
 <div class="img-cont">
@@ -61,13 +61,13 @@ tags:
 <div class="img-cont">
   <img class="blog-img" alt="rotoscoping in after effects" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3772.jpg?v=1729012902449">
   <h5>
-    Something Else
+    Olivia Rotoscoping in After Effects
   </h5>
   </div>
   <div class="img-cont">
   <img class="blog-img" alt="after effects" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3775.JPG?v=1729012920437">
   <h5>
-    Something Else
+    Olivia & Devan working in After Effects
   </h5>
   </div>
 </div>
