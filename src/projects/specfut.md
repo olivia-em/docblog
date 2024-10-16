@@ -33,8 +33,9 @@ I made a <a target="_blank" href="https://open.spotify.com/playlist/7nWDkt8jHbB5
 
 Once we had filmed some of our content separately, we went back to the drawing board to simplify our theme. We knew if would be a big ask to get a lot of people to film 
 for our project. I had thrown an idea around about a girl on her walk home. This developed from "what if she felt safe?" to "how can the simplest of journeys feel like the greatest endeavor?"
-Once we 
-  <div class="img-div">
+We met up to centralize the kinds of clips we'd want to see, so that when we did some work separately, everyting would still be consistent.
+ <br>
+ <div class="img-div">
   <div class="img-cont">
   <img class="blog-img" alt="theme planning, editing ideas" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3788.JPG?v=1729012927168">
   <h5>
@@ -47,6 +48,13 @@ Once we
     Editng Ideas
   </h5>
   </div>
+  </div>
+  <br>
+  
+  We had a lot of footage, so we selected a portion that felt right and made a plan to divide the work and come back together 
+  a couple days later. We also decided that some text, like internal monologue, could be interesting. 
+  
+  <div class="img-div">
   <div class="img-cont">
   <img class="blog-img" alt="text layer ideas" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3791.jpg?v=1729012943725">
   <h5>
@@ -56,6 +64,11 @@ Once we
 </div>
 
 #### Editing
+
+We knew we wanted the final cut to be a bit abstract, with jumpcuts, flashes, a mix of stills and videos, and high color contrast. We edited a bunch of clips separately, and then came back together
+to make a final product. We started by doing an audio cut, because we knew that the video would follow musical cues. Devan recorded a voiceover which would 
+bookend the music. It was at that point we decided that we had two characters, a girl on an emotional journey and a caller trying to connect. 
+ 
 
 <div class="img-div">
 <div class="img-cont">
@@ -69,7 +82,13 @@ Once we
   <h5>
     Audio Cutting (Olivia & Devan)
   </h5>
-  </div>
+  </div></div>
+  <br>
+  After we finished the audio, we spent probably two days in After Effects. We lost a couple hours on Monday because some clips weren't properly backed up
+  and we had to remake them (always triple check you have your content in three places kids). We cut the music down again because we felt like we may not have time to finish. 
+  In the end we didn't save much time, but the video did have a better flow because of it.  
+  
+  <div class="img-div">
 <div class="img-cont">
   <img class="blog-img" alt="rotoscoping in after effects" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3772.jpg?v=1729012902449">
   <h5>
@@ -85,3 +104,5 @@ Once we
 </div>
 
 #### Execution
+
+
