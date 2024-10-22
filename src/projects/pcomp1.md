@@ -10,11 +10,11 @@ tags:
 
 #### Brainstorming
 
-Kalinda and I originally wanted to use non-tactile sensors, like audio and ultrasonic, to change a p5.js visualization. We found a couple websites for 
-documentation, and tried to follow those labs, but struggled to get them to work. We think we had a problem with voltage, but we were also having some technical 
+Kalinda and I originally wanted to use non-tactile sensors, like audio and ultrasonic, to change a p5.js visualization. We found a couple websites for
+documentation, and tried to follow those labs, but struggled to get them to work. We think we had a problem with voltage, but we were also having some technical
 difficulties with the serial connection to the laptop we were using. With all the other midterms that we both had going on, we thought it would be better to scale back,
 since we also had to learn how to do the code for connecting arduino to p5.js. In the end, we decided to stick with buttons and potentiometers and create a small
-VJ-ing set up. 
+VJ-ing set up.
 
 <div class="img-div">
 <div class="img-cont">
@@ -37,19 +37,76 @@ VJ-ing set up.
   </div>
 </div>
 
-#### Trial & Error
+#### Code & Connection
+
+We replicated labs that are upcoming later in the semester in order to connect the arduino to p5.js. We had to do a couple of them to learn the structure, both in arduino IDE and p5.js, and figure out
+how to export and then splice multiple variables so we could change more than one thing in the p5 sketch.
 
 <div class="img-div">
 <div class="img-cont">
-  <img class="blog-img" alt="s" src="">
+  <img class="blog-img" alt="arduino code 1" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.54.50%E2%80%AFPM.png?v=1729601167608">
   <h5>
-    Something
+    Arduino Code 1
   </h5>
   </div>
 <div class="img-cont">
-  <img class="blog-img" alt="" src="">
+  <img class="blog-img" alt="arduino code 2" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.55.03%E2%80%AFPM.png?v=1729601162144">
   <h5>
-    Something Else
+    Arduino Code 2
+  </h5>
+  </div>
+</div>
+
+I made the p5 design with inspiration from one of [Sky Seo's](https://sky-itp.cargo.site/computational-media_coding-activities)
+homework assignments in our ICM class. We wanted to have five changing variables, including speed, frequency, number, and two color ramps.
+
+<div class="img-div">
+<div class="img-cont">
+  <img class="blog-img" alt="p5.js 1" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.51.27%E2%80%AFPM.png?v=1729601181465">
+  <h5>
+    p5.js Code 1
+  </h5>
+  </div>
+<div class="img-cont">
+  <img class="blog-img" alt="p5.js 2" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.51.42%E2%80%AFPM.png?v=1729601185176">
+  <h5>
+    p5.js Code 2
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 3" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.51.50%E2%80%AFPM.png?v=1729601189141">
+  <h5>
+    p5.js Code 3
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 4" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.52.19%E2%80%AFPM.png?v=1729601193373">
+  <h5>
+    p5.js Code 4
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 5" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.52.26%E2%80%AFPM.png?v=1729601197445">
+  <h5>
+    p5.js Code 5
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 6" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.52.32%E2%80%AFPM.png?v=1729601203523">
+  <h5>
+    p5.js Code 6
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 7" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.52.38%E2%80%AFPM.png?v=1729601208057">
+  <h5>
+    p5.js Code 7
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="visualization" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.53.05%E2%80%AFPM.png?v=1729601155526">
+  <h5>
+    p5.js Visual
   </h5>
   </div>
 </div>
@@ -57,4 +114,3 @@ VJ-ing set up.
 #### Execution
 
 [Webpage](https://vj-device.glitch.me/)
-
