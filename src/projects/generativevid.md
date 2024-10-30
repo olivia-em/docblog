@@ -13,8 +13,7 @@ tags:
 Ok this project was a huge hurdle for me. I had a lot of ideas about where to go and what I thought AI could help me with.
 I made a <a target="_blank" href="https://open.spotify.com/playlist/1CHVRG58A4EUSaQRIZiYXP?si=66019eb4ac9e4958">playlist</a> for inspiration.
 However, I was kind of disappointed with what AI had to give me. I had gotten inspiration pictures from pinterest and wanted to see what it could
-do with them. The videos that came out were bizarre, soulless, flat, or all three. 
-
+do with them. The videos that came out were bizarre, soulless, flat, or all three.
 
 <div class="img-div">
 <div class="vid-aud">
@@ -23,7 +22,7 @@ do with them. The videos that came out were bizarre, soulless, flat, or all thre
 " >
 Your browser does not support the video tag.
 </video><h5>
-    <i>bizarre dancer</i>
+    <i>weird walking</i>
   </h5>
   </div>
 <div class="vid-aud">
@@ -31,21 +30,21 @@ Your browser does not support the video tag.
   <source src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4109.MOV?v=1730252390856" >
 Your browser does not support the video tag.
 </video><h5>
-    <i>weird walking</i>
+  <i>bizarre dancer</i>
   </h5>
   </div></div>
 
 I had originally wanted to do something that took a person through someone's quasi-living instagram, where all the pictures would come to life.
 I still wanted the video to retain aesthetic and artistry. I don't take the comedy route for projects very often, and I wasn't confident doing that here.
 I wouldn't say that artistry and depth lend well to AI, and I was consistently unhappy with the content I creating. I used all 2,500ish credits for text-to-image generation in Runway
-and I didn't use a single one of those images in my final project. 
+and I didn't use a single one of those images in my final project.
 <br><br>
 
-I decided I wanted to do a cross between poetry and AI art, either using my own poetry or some writers I like. My poetry 
+I decided I wanted to do a cross between poetry and AI art, either using my own poetry or some writers I like. My poetry
 can be a bit gruesome, so I ended up not going that way, especially because AI doesn't do gore very well (and it probably wouldn't go over well in class).
-I remembered a favorite free-verse poetry book, where the author details these monstrous images that appear in her mind; she calls them the <i>Nudes</i>, which 
+I remembered a favorite free-verse poetry book, where the author details these monstrous images that appear in her mind; she calls them the <i>Nudes</i>, which
 are not in any way pornographic, but often quite gruesome. I thought this would be a cool way to provide the text-to-art generators a prompt. I switched over to Adobe Express, Firefly Image 3, and was able to provide
-an image that would determine a consistent style. This is why my collection of images is as stylistically consistent as they are; I've attached them below. 
+an image that would determine a consistent style. This is why my collection of images is as stylistically consistent as they are; I've attached them below.
 
  <div class="img-div">
   <div class="img-cont">
@@ -132,74 +131,50 @@ Be very careful. Be very careful.
   <br>
   
   
-  We had a lot of footage, so we selected a portion that felt right and made a plan to divide the work and come back together 
-  a couple days later. We also decided that some text, like internal monologue, could be interesting. 
-  
+  All of these images were given text straight from Anne Carson's <i>Glass, Irony, & God</i>. The artistic style was inspired by this image below:
   <div class="img-div">
   <div class="img-cont">
-  <img class="blog-img" alt="text layer ideas" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3791.jpg?v=1729012943725">
+  <img class="blog-img" alt="vintage, mystical image of Ophelia from Hamlet" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/inspiration.jpeg?v=1730252665451">
   <h5>
-    Text Layering Ideas
+    Ophelia from <i>Hamlet</i>
   </h5>
   </div>
 </div>
 
 #### Editing
 
-We knew we wanted the final cut to be a bit abstract, with jumpcuts, flashes, a mix of stills and videos, and high color contrast. We edited a bunch of clips separately, and then came back together
-to make a final product. We started by doing an audio cut, because we knew that the video would follow musical cues. Devan recorded a voiceover which would
-bookend the music. It was at that point we decided that we had two characters, a girl on an emotional journey and a caller trying to connect.
+I wanted to basically put the book on the page. I took some excerpts and then replaced those Nude descriptions with the corresponding AI images. I chose the instrumental of a song I really like
+and focused on clear text, little-to-no showy effects, and clear music-to-visuals timing.
 
 <div class="img-div">
 <div class="img-cont">
-  <img class="blog-img" alt="selfie of Olivia and her friend Sarah, who helped her film" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3595.JPG?v=1729012838559">
+  <img class="blog-img" alt="editing in after effects" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4120.JPG?v=1730252397275">
   <h5>
-    Filming Process (Olivia & Sarah)
+    Editing in After Effects
   </h5>
   </div>
   <div class="img-cont">
-  <img class="blog-img" alt="devan working in Ableton" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3773.JPG?v=1729012912578">
+  <img class="blog-img" alt="poetry book" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4115.JPG?v=1730252390174">
   <h5>
-    Audio Cutting (Olivia & Devan)
+    Glass, Irony, & God
   </h5>
   </div></div>
   
   <br>
-  
-  After we finished the audio, we spent probably two days in After Effects. We lost a couple hours on Monday because some clips weren't properly backed up
-  and we had to remake them (always triple check you have your content in three places kids). We cut the music down again because we felt like we may not have time to finish. 
-  In the end we didn't save much time, but the video did have a better flow because of it.  
-  
-  <div class="img-div">
-<div class="img-cont">
-  <img class="blog-img" alt="rotoscoping in after effects" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3772.jpg?v=1729012902449">
-  <h5>
-    Olivia Rotoscoping in After Effects
-  </h5>
-  </div>
-  <div class="img-cont">
-  <img class="blog-img" alt="after effects" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3775.JPG?v=1729012920437">
-  <h5>
-    Olivia & Devan working in After Effects
-  </h5>
-  </div>
-</div>
 
 #### Execution
 
-I'm so proud of our finished video for a lot of reasons. Devan and I worked really hard, and no matter
-what we made, I was always going to be proud of that. But the cherry on top is that this film is really in line with my goals as a creator.
-I'm really interested in reflective or contemplative pieces that are emotionally charged but remain more conceptual
-rather than following a strict narrative.
+I think the result is thought-provoking, and I'm glad I went in a simpler direction.
+
 <br><br>
 
 <div>
   <div class="vid-aud">
   <video width="320" height="200" controls>
-  <source src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/areyoufree.mp4?v=1729041185440" >
+  <source src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/theNudes.mp4?v=1730252956555" >
 Your browser does not support the video tag.
 </video><h5>
-    <i>are you free tomorrow?</i>
+    <i>theNudes</i>
   </h5>
   </div>
 </div>
