@@ -15,20 +15,25 @@ I made a <a target="_blank" href="https://open.spotify.com/playlist/1CHVRG58A4EU
 However, I was kind of disappointed with what AI had to give me. I had gotten inspiration pictures from pinterest and wanted to see what it could
 do with them. The videos that came out were bizarre, soulless, flat, or all three. 
 
+
 <div class="img-div">
-<div class="img-cont">
-  <img class="blog-img" alt="weird ai stuff" src="">
-  <h5>
-    Bizarre Dancer
+<div class="vid-aud">
+  <video width="320" height="200" controls>
+  <source src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4106.MOV?v=1730252385780
+" >
+Your browser does not support the video tag.
+</video><h5>
+    <i>bizarre dancer</i>
   </h5>
   </div>
-<div class="img-cont">
-  <img class="blog-img" alt="general idea" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3792.JPG?v=1729012948791">
-  <h5>
-    Picture to Video: walking
+<div class="vid-aud">
+  <video width="320" height="200" controls>
+  <source src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4109.MOV?v=1730252390856" >
+Your browser does not support the video tag.
+</video><h5>
+    <i>weird walking</i>
   </h5>
-  </div>
-  </div>
+  </div></div>
 
 I had originally wanted to do something that took a person through someone's quasi-living instagram, where all the pictures would come to life.
 I still wanted the video to retain aesthetic and artistry. I don't take the comedy route for projects very often, and I wasn't confident doing that here.
@@ -46,68 +51,81 @@ an image that would determine a consistent style. This is why my collection of i
   <div class="img-cont">
   <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/woman%20alone%20on%20a%20hill.%20she%20stands%20into%20the%20wind.%20it%20is%20a%20hard%20wind%20slanting%20from%20the%20north.jpeg?v=1730251579795">
   <h5>
-    
+    Woman alone on a hill. She stands into the wind. It is a hard wind slanting from the north. Long flaps and shreds of flesh rip off the woman's body and lift and blow away on the wind, leaving an exposed column of nerve and blood and muscle calling mutely through lipless mouth.
   </h5>
   </div>
   <div class="img-cont">
   <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/woman%20caught%20in%20a%20cage%20of%20thorns%20(1).jpeg?v=1730251571136">
   <h5>
-    
+    woman caught in a cage of thorns. big glistening brown thorns with black stains on them where she she twists this way and that way unable to stand upright.
   </h5>
   </div>
   <div class="img-cont">
   <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/woman%20with%20a%20single%20great%20thorn%20implanted%20in%20her%20forehead%20(1).jpeg?v=1730251560303">
   <h5>
-    
+    woman with a single great thorn implanted in her forehead. she grips it with both hands endeavouring to wrench it out
   </h5>
   </div>
   <div class="img-cont">
   <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/woman%20on%20a%20blasted%20landscape%20backlit%20in%20red%20like%20hieronymous%20bosch.jpeg?v=1730251564824">
   <h5>
-    
+    woman on a blasted landscape backlit in red like hieronymous bosch. covering her head and upper body is a hellish contraption like the top half of a crab. with arms crossed as if pulling off a sweater she works hard at dislodging the crab. 
   </h5>
   </div>
   <div class="img-cont">
   <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/deck%20of%20cards.%20each%20card%20is%20made%20of%20flesh.%20the%20living%20cards%20are%20days%20of%20a%20woman's%20life.jpeg?v=1730251445901
   ">
   <h5>
-    
+    deck of cards. each card is made of flesh. the living cards are days of a woman's life. i see a great silver needle go flashing right through the deck once from end to end.
   </h5>
   </div>
   <div class="img-cont">
   <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/i%20cannot%20remember%20(2).jpeg?v=1730251455854">
   <h5>
-    
+    I cannot remember
   </h5>
   </div>
   <div class="img-cont">
   <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/white%20room%20with%20whose%20walls%2C%20having%20neither%20planes%20nor%20curves%20nor%20angles%2C%20are%20composed%20of%20a%20continuo%20(3).jpeg?v=1730251477862">
   <h5>
-    
+    white room with whose walls, having neither planes nor curves nor angles, are composed of a continuous satiny white membrane like the flesh of some interior organ of the moon. it is a living surface, almost wet. lucency breathes in and out. rainbows shutter across it. And around the walls of the room a voice goes whispering, 
+Be very careful. Be very careful.
   </h5>
   </div>
   <div class="img-cont">
   <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/a%20woman%20stands%20on%20a%20black%20disc%20on%20which%20the%20fires%20of%20all%20the%20winds%20are%20attached%20in%20a%20row.jpeg?v=1730251441623">
   <h5>
-    
+    black disc on which the fires of all the winds are attached in a row. a woman stands on the disc amid the winds whose long yellow silk flames flow and vibrate up through her 
   </h5>
   </div>
   <div class="img-cont">
   <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/transparent%20loam.%20under%20the%20loam%20a%20woman%20has%20dug%20a%20long%20deep%20trench%20(1).jpeg?v=1730251474081">
   <h5>
-    
+    transparent loam. under the loam a woman has dug a long deep trench. into the trench she is placing small white forms, i don't know what they are 
   </h5>
   </div>
   <div class="img-cont">
-  <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/a%20woman%20stands%20on%20a%20black%20disc%20on%20which%20the%20fires%20of%20all%20the%20winds%20are%20attached%20in%20a%20row.jpeg?v=1730251441623">
+  <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/green%20thorn%20of%20the%20world%20poking%20up%20alive%20through%20the%20heart%20of%20a%20woman%20who%20lies%20on%20the%20ground%20(1).jpeg?v=1730251450355">
   <h5>
-    
+    green thorn of the world poking up alive through the heart of a woman who lies on the ground. the thorn is exploding its green blood above her in the air. Everything it is is has, the voice says.
   </h5>
   </div>
   <div class="img-cont">
-  <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/a%20woman%20stands%20on%20a%20black%20disc%20on%20which%20the%20fires%20of%20all%20the%20winds%20are%20attached%20in%20a%20row.jpeg?v=1730251441623">
+  <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/_ledge%20in%20outer%20space.jpeg?v=1730251437281">
   <h5>
-    
+    ledge in outer space. space is bluish black and glossy as solid water and moving very fast in all directions, shrieking past the woman who stands pinned to nothing by its presser. she peers and glances for some way to go, trying to lift her hand but cannot. 
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/old%20pole%20in%20the%20wind%20(4).jpeg?v=1730251469925">
+  <h5>
+    old pole in the wind. cold currents are streaming over it and pulling out into ragged long horizontal black lines some shreds of ribbon attached to the pole. i cannot see how they are attached--notches? staples? nails? all of a sudden the wind changes and all the black shreds rise straight up in the air and tie themselves into knots, then untie and float down. The wind is gone. It waits.
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/i%20saw%20a%20high%20hill%20and%20on%20it%20a%20form%20shaped%20against%20hard%20air%20(3).jpeg?v=1730251459544">
+  <h5>
+    i saw a high hill and on it a form shaped against hard air. it could have been just a pole with some old cloth attached, but as I came closer I saw it as a human body trying to stand against winds so terrible that so terrible that the flesh was blowing off the bones. and there was no pain. the wind was cleansing the bones. they stood forth silver and necessary. it was the body of us all. 
   </h5>
   </div>
   </div>
