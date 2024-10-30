@@ -124,7 +124,7 @@ Be very careful. Be very careful.
   <div class="img-cont">
   <img class="blog-img" alt="ai image" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/i%20saw%20a%20high%20hill%20and%20on%20it%20a%20form%20shaped%20against%20hard%20air%20(3).jpeg?v=1730251459544">
   <h5>
-    i saw a high hill and on it a form shaped against hard air. it could have been just a pole with some old cloth attached, but as I came closer I saw it as a human body trying to stand against winds so terrible that so terrible that the flesh was blowing off the bones. and there was no pain. the wind was cleansing the bones. they stood forth silver and necessary. it was the body of us all. 
+    i saw a high hill and on it a form shaped against hard air. it could have been just a pole with some old cloth attached, but as I came closer I saw it as a human body trying to stand against winds so terrible that the flesh was blowing off the bones. and there was no pain. the wind was cleansing the bones. they stood forth silver and necessary. it was the body of us all. 
   </h5>
   </div>
   </div>
