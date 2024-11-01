@@ -139,17 +139,36 @@ homework assignments in our ICM class. We wanted to have five changing variables
   </h5>
   </div>
    <div class="img-cont">
-  <img class="blog-img" alt="p5.js 3" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1799.jpeg?v=1730490449139">
+  <img class="blog-img" alt="breadboard in the box" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1799.jpeg?v=1730490449139">
   <h5>
     Showing the Breadboard
   </h5>
   </div>
   <div class="img-cont">
-  <img class="blog-img" alt="p5.js 3" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1794.jpeg?v=1730490484061">
+  <img class="blog-img" alt="painted Device" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1794.jpeg?v=1730490484061">
   <h5>
-    p5.js Code 3
+    Painted Device
+  </h5>
+  </div>
+</div>
+<br>
+
+Our project is pretty straightforward, but I was afraid (like everyone else) that it would just stop working. I had a lot of issues with my arduino,
+and I'll have to get a new one because I sort of blew it. I'm very relieved that we made it through the presentation with no kinks. This project has a [webpage](https://vj-device.glitch.me/) component that
+allowed us to display everything in a fuller screen. Although it is kind of useless now, unless someone wants to recreate this project, I think it will be
+a good medium to explore when it comes time for the final project.
+
+<div>
+  <div class="vid-aud">
+  <video width="320" height="200" controls>
+  <source src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3949.mov?v=1730490967204" >
+Your browser does not support the video tag.
+</video><h5>
+    <i>It Works!</i>
   </h5>
   </div>
 </div>
 
-[Webpage](https://vj-device.glitch.me/)
+Even though Kalinda and I had to go smaller-scale than what we had originally imagined, I'm super happy with the final project.
+We got some great feedback in class, and I think I want to make grander version of this for the final project. Maybe a larger board with more buttons or knobs
+that could have their own light, and a more intense p5 visualization. It could be a great way to combine my ICM and PCOMP finals.
