@@ -105,12 +105,51 @@ homework assignments in our ICM class. We wanted to have five changing variables
   </div>
   <div class="img-cont">
   <img class="blog-img" alt="visualization" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.53.05%E2%80%AFPM.png?v=1729601155526">
-  <h5>
-    p5.js Visual
+  <h5><a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/D3gI_nTnO">
+    p5.js Visual</a>
   </h5>
   </div>
 </div>
 
 #### Execution
+
+<div class="img-div">
+<div class="img-cont">
+  <img class="blog-img" alt="laser cutting" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1768.jpeg?v=1730490433099">
+  <h5>
+    Laser Cutting Box
+  </h5>
+  </div>
+<div class="img-cont">
+  <img class="blog-img" alt="building" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1774.jpeg?v=1730490441034">
+  <h5>
+    Building #1
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="building" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1770.jpeg?v=1730490437102">
+  <h5>
+    Building #2
+  </h5>
+  </div>
+   <div class="img-cont">
+  <img class="blog-img" alt="device in the box" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1798.jpeg?v=1730490445207">
+  <h5>
+    Device in the Box
+  </h5>
+  </div>
+   <div class="img-cont">
+  <img class="blog-img" alt="p5.js 3" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1799.jpeg?v=1730490449139">
+  <h5>
+    Showing the Breadboard
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 3" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1794.jpeg?v=1730490484061">
+  <h5>
+    p5.js Code 3
+  </h5>
+  </div>
+</div>
 
 [Webpage](https://vj-device.glitch.me/)
