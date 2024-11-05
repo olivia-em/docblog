@@ -1,5 +1,5 @@
 ---
-title: Weeks 9
+title: Week 9
 when: October 29th, 2024
 layout: layouts/blog.njk
 class: Physical Computing
