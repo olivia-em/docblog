@@ -24,21 +24,19 @@ then appear on random pixels. A clear button sets the input field's values back 
 
 <div class="img-div">
 <div class="img-cont">
-  <img class="blog-img" alt="" src="">
+  <img class="blog-img" alt="Olivia on Video" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4320.JPG?v=1730838626485">
   <h5>
-    Our original sketch for a device with ultrasonic & audio sensors
+    Olivia on Video
   </h5>
   </div>
 <div class="img-cont">
-  <img class="blog-img" alt="changing the plan, sketch" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3945.JPG?v=1729601095547">
-  <h5>
-    Sketch for a new device
+<img class="blog-img" alt="Michael and Olivia" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4323.JPG?v=1730838633245">  <h5>
+    Michael and Olivia
   </h5>
   </div>
   <div class="img-cont">
-  <img class="blog-img" alt="sketch with dimensions for laser cutting" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3947.JPG?v=1729601086116">
-  <h5>
-    Sketch with dimensions for laser cutting
+<img class="blog-img" alt="Video with Key Characters" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4325.JPG?v=1730838638252">  <h5>
+    Video with Key Characters
   </h5>
   </div>
 </div>
