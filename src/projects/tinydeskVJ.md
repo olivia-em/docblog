@@ -10,7 +10,7 @@ tags:
 
 [videoKILL - fin](https://editor.p5js.org/oliviaemlee/sketches/e5eQotsBQ)
 
-#### Brainstorming
+<!-- #### Brainstorming
 
 TBD
 
@@ -119,3 +119,4 @@ Your browser does not support the video tag.
   </h5>
   </div>
 </div>
+ -->
