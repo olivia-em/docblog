@@ -33,8 +33,8 @@ I started by creating three visuals the resonated with me, and initially used ke
 
 #### [soundStorm](https://editor.p5js.org/oliviaemlee/sketches/aA7Suir-g)
 
-I liked the idea doing something with a thunderstorm, because I thought lightening and rain would be cool effects to see while music was playing. I started searching for inspiration code, and came across these three examples/sketches:
-[Mouse Ripple](https://happycoding.io/tutorials/p5js/input/mouse-ripple), [Generative Lightening](https://editor.p5js.org/dlatolley/sketches/Bu3JRNqgF), and [rain](https://editor.p5js.org/kelsierose94/sketches/MU2Y21aG0). I took this code and tweaked it so that it would have variable changes and could function as an effect that is called based on key press (or button press for serial communication). I wrote the code for the bubble clouds based on a
+I liked the idea doing something with a thunderstorm, because I thought lightning and rain would be cool effects to see while music was playing. I started searching for inspiration code, and came across these three examples/sketches:
+[Mouse Ripple](https://happycoding.io/tutorials/p5js/input/mouse-ripple), [Generative Lightning](https://editor.p5js.org/dlatolley/sketches/Bu3JRNqgF), and [rain](https://editor.p5js.org/kelsierose94/sketches/MU2Y21aG0). I took this code and tweaked it so that it would have variable changes and could function as an effect that is called based on key press (or button press for serial communication). I wrote the code for the bubble clouds based on a
 [bouncyBalls](https://editor.p5js.org/oliviaemlee/sketches/KfGtsVCtU) homework assignment in ICM.
 
 #### [soundWaves](https://editor.p5js.org/oliviaemlee/sketches/nL5Cfv6Oi)
