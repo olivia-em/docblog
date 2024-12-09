@@ -92,7 +92,7 @@ Your browser does not support the video tag.
   </div>
 </div>
 
-#### Playtesting
+#### Playtesting & Changing Code
 
 After user and playtesting the circuit on the three different visuals, I gathered that people seemed to resonate with the body segmentation more than the other two. Some even suggested 
 that I only focus on one. I agreed, because it felt like having to go to the computer to change the visuals kind of took people out of the experience of really getting to play with the box. 
@@ -100,21 +100,43 @@ I also didn't love how the buttons would only do these effects that would just d
 on one visual and really beef it up. I basically placed the soundStorm effects into the videoKill sketch. ML5 seems to not be able to function in a sketch while it is sound reactive, so I had to abandon that aspect of the project.
 From here, rather than having the effects be one off on the press of a button, I wanted them to just turn on and off. Furthermore, in order for all the buttons on the box to have a use, I had to create two new effects to fill the empty space.
 My classmate had sent me a cool [delay](https://editor.p5js.org/oliviaemlee/sketches/1MyYEo6u-) effect on a grid of video captures, and when I got it working in the greater sketch the color changes over time were really fantastic. I also added this super cool [laser](https://editor.p5js.org/lokoshiv/sketches/ryRplw9om) sketch, which I used Chat GPT 
-to help me get it moving. 
+to help me get it moving. To be clear, with how long the code is, I did use Chat GPT to help organize and comment the code out so it's easier to understand. Before I had done that, everything was all over the place and it was very difficult to find things so I could change them. 
 
+#### Finishing Fabrication
+
+While changing the code, I was also painting the box and putting the circuit together inside of it so that people could really get a feel for how the different inputs would function. 
+Another classmate had given me the idea of putting vinyls on the rotary encoders so that it really felt like spinning a record to mix up visuals. I thought that was cool, so I got smaller vinyl record coasters and dremeled them to fit as rotary encoder caps. 
 
 
 <div class="img-div">
 <div class="img-cont">
-  <img class="blog-img" alt="" src="">
+  <img class="blog-img" alt="In the spray paint booth" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4628.JPG?v=1733722771545">
   <h5>
-    
+    in the spray paint booth
   </h5>
   </div>
 <div class="img-cont">
-  <img class="blog-img" alt="" src="">
+  <img class="blog-img" alt="painted box parts" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4678.JPG?v=1733726364818">
   <h5>
-    
+    galaxy painted box
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="painted box parts" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4683.JPG?v=1733726372708">
+  <h5>
+    galaxy painted box cover
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="mess of soldered wires/inputs in my red bin" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4684.JPG?v=1733726379463">
+  <h5>
+    mess of soldered wires/inputs
+  </h5>
+  </div>
+    <div class="img-cont">
+  <img class="blog-img" alt="full fabrication" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4725%202.JPG?v=1733722815470">
+  <h5>
+    Full Fabrication
   </h5>
   </div>
 </div>
