@@ -21,7 +21,24 @@ tags:
 
 I wanted to build on my [midterm project](https://docblog-olee.glitch.me/projects/pcomp1/) and make a VJ box with a larger interface and more functionality.
 My goal was to have a strong p5 visualization that had more effects rather than simply changing color or frame rate. While brainstorming, I had wanted to the visual to be sound reactive
-as well as reacting to the device interaction. Beyond this, I wanted to have a website of at least three visual options that someon
+as well as reacting to the device interaction. Beyond this, I wanted to have a website of at least three visual options that someone could choose from. Those visuals would vary in use, where one would simply be for having on in the background while music was playing, while another would be very interactive and the user would have to make effects
+occur with the music on their own, and the last would have a video component that performers coudl have as a backdrop. Beyond this, I could even put the circuit diagram on the website, as well 
+as an instructable on box construction if someone wanted to create their own version of the project. Throughout the process of creating the box and coding the visual, some of 
+these things were lost. 
+
+<br><br>
+
+I started by creating three visuals the resonated with me, and initially used keypress functions to simulate box interacting, as I had alread done the serial communication code necessary for connecting this to an arduino, and I knew I could replicate it. 
+
+#### [soundStorm](https://editor.p5js.org/oliviaemlee/sketches/aA7Suir-g)
+
+I liked the idea doing something with a thunderstorm, because I thought lightning and rain would be cool effects to see while music was playing. I started searching for inspiration code, and came across these three examples/sketches: 
+[Mouse Ripple](https://happycoding.io/tutorials/p5js/input/mouse-ripple), [Generative Lightning](https://editor.p5js.org/dlatolley/sketches/Bu3JRNqgF), and [rain](https://editor.p5js.org/kelsierose94/sketches/MU2Y21aG0). I took this code and tweaked it so that it would have variable changes. I wrote the code for the bubble clouds based on a
+[bouncyBalls](https://editor.p5js.org/oliviaemlee/sketches/KfGtsVCtU) homework assignment in ICM.
+
+#### [soundWaves](https://editor.p5js.org/oliviaemlee/sketches/nL5Cfv6Oi)
+
+
 
 
 <div class="img-div">
