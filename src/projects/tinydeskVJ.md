@@ -94,7 +94,15 @@ Your browser does not support the video tag.
 
 #### Playtesting
 
-TBD
+After user and playtesting the circuit on the three different visuals, I gathered that people seemed to resonate with the body segmentation more than the other two. Some even suggested 
+that I only focus on one. I agreed, because it felt like having to go to the computer to change the visuals kind of took people out of the experience of really getting to play with the box. 
+I also didn't love how the buttons would only do these effects that would just diappear, and you'd have to keep pressing them to see something show up. It didn't feel impactful. From here, I decided to pair back and focus
+on one visual and really beef it up. I basically placed the soundStorm effects into the videoKill sketch. ML5 seems to not be able to function in a sketch while it is sound reactive, so I had to abandon that aspect of the project.
+From here, rather than having the effects be one off on the press of a button, I wanted them to just turn on and off. Furthermore, in order for all the buttons on the box to have a use, I had to create two new effects to fill the empty space.
+My classmate had sent me a cool [delay](https://editor.p5js.org/oliviaemlee/sketches/1MyYEo6u-) effect on a grid of video captures, and when I got it working in the greater sketch the color changes over time were really fantastic. I also added this super cool [laser](https://editor.p5js.org/lokoshiv/sketches/ryRplw9om) sketch, which I used Chat GPT 
+to help me get it moving. 
+
+
 
 <div class="img-div">
 <div class="img-cont">
