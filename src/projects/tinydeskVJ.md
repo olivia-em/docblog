@@ -8,7 +8,7 @@ tags:
   - project
 ---
 
-#### Building on my PCOMP Midterm & Brainstorming
+#### Building on my PCOMP Midterm
 
 <div class="img-div">
 <div class="img-cont">
@@ -44,34 +44,55 @@ For this sketch, which isn't retained in the final version, I just wanted someth
 
 This sketch was to be the one that incorporated the video aspect. I was really into the colors and video capture from my [pixel project](https://editor.p5js.org/oliviaemlee/sketches/hzMPd6IpS) so I wanted to find a way to get video of myself with no background, which I could tweak the pixel colors of. I found 
 this great [source code](https://editor.p5js.org/ml5/sketches/ruoyal-RC) for ML5 body segmentation. I thought it would be could to be able to change this into a grid, and have the grid number be one of the variable changes on the box interface, so I added that grid number as a variable to the code, as well as made two of the pixel colors chnage to a variable so the colors of the video would change as well. 
+I wanted the box to have some general effects as well, so I added variables for blur, grain, and frame rate. The film grain code I found [here](https://editor.p5js.org/lazydistribution/sketches/nB-VddIvd). 
 
-<br><br> 
 
-I wanted the box to have some general effects as well, so I added variables for blur, grain, and frame rate. The film grain code I found [here](https://editor.p5js.org/lazydistribution/sketches/nB-VddIvd). Once I had mostly finished making these sketches, I had to start fabricating the box as well, and updating my original 
+#### Arduino IDE & Fabrication
+
+Once I had mostly finished making these sketches, I had to start fabricating the box and updating my original arduino code. This interface has two rotary encoders, fours slide potentiometers, 3 regular potentiometers, and six buttons. 
+For the box fabrication, I expanded the design of my midterm box so that it was much larger. I updated my arduino code so that it had the proper number of inputs, created a basic version of the circuit, 
+and set up soundStorm so that it could check the serial communication and make sure that everything was reacting properly. 
 
 
 <div class="img-div">
 <div class="img-cont">
-  <img class="blog-img" alt="" src="">
+  <img class="blog-img" alt="laser cutting box parts" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4560.JPG?v=1733722748172">
   <h5>
-    
+    Laser Cutting Box Walls
   </h5>
   </div>
 <div class="img-cont">
-  <img class="blog-img" alt="" src="">
+  <img class="blog-img" alt="base of box put together" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4564.JPG?v=1733722757489">
   <h5>
-    
+    Base of Box Together
   </h5>
   </div>
   <div class="img-cont">
-  <img class="blog-img" alt="" src="">
+  <img class="blog-img" alt="checking fit of circuit inputs" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4627.JPG?v=1733722760867">
   <h5>
-    
+    Checking Input Fits
+  </h5>
+  </div>
+    <div class="img-cont">
+  <img class="blog-img" alt="circuit" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4557.JPG?v=1733722720804">
+  <h5>
+    Circuit
   </h5>
   </div>
 </div>
 
-#### Code & Connection
+<div>
+  <div class="vid-aud">
+  <video width="320" height="200" controls>
+  <source src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_4555.MOV?v=1733725138578" >
+Your browser does not support the video tag.
+</video><h5>
+    <i>The Circuit Works!</i>
+  </h5>
+  </div>
+</div>
+
+#### Playtesting
 
 TBD
 
