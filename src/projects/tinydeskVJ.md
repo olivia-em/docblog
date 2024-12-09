@@ -38,7 +38,16 @@ I liked the idea doing something with a thunderstorm, because I thought lightnin
 
 #### [soundWaves](https://editor.p5js.org/oliviaemlee/sketches/nL5Cfv6Oi)
 
+For this sketch, which isn't retained in the final version, I just wanted something simple and found two example of people working with sound waves. I added them both to this sketch and tweaked positioning, number, color, and opacity.
 
+#### [videoKill](https://editor.p5js.org/oliviaemlee/sketches/89DohdKNp)
+
+This sketch was to be the one that incorporated the video aspect. I was really into the colors and video capture from my [pixel project](https://editor.p5js.org/oliviaemlee/sketches/hzMPd6IpS) so I wanted to find a way to get video of myself with no background, which I could tweak the pixel colors of. I found 
+this great [source code](https://editor.p5js.org/ml5/sketches/ruoyal-RC) for ML5 body segmentation. I thought it would be could to be able to change this into a grid, and have the grid number be one of the variable changes on the box interface, so I added that grid number as a variable to the code, as well as made two of the pixel colors chnage to a variable so the colors of the video would change as well. 
+
+<br><br> 
+
+I wanted the box to have some general effects as well, so I added variables for blur, grain, and frame rate. The film grain code I found [here](https://editor.p5js.org/lazydistribution/sketches/nB-VddIvd). Once I had mostly finished making these sketches, I had to start fabricating the box as well, and updating my original 
 
 
 <div class="img-div">
