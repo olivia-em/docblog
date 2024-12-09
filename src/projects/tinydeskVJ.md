@@ -18,6 +18,7 @@ tags:
   </h5>
   </div>
 </div>
+<br>
 
 I wanted to build on my [midterm project](https://docblog-olee.glitch.me/projects/pcomp1/) and make a VJ box with a larger interface and more functionality.
 My goal was to have a strong p5 visualization that had more effects rather than simply changing color or frame rate. While brainstorming, I had wanted to the visual to be sound reactive
@@ -26,7 +27,7 @@ occur with the music on their own, and the last would have a video component tha
 as an instructable on box construction if someone wanted to create their own version of the project. Throughout the process of creating the box and coding the visual, some of
 these things were lost.
 
-<br><br>
+<br>
 
 I started by creating three visuals the resonated with me, and initially used keypress functions to simulate box interacting, as I had alread done the serial communication code necessary for connecting this to an arduino, and I knew I could replicate it.
 
@@ -157,8 +158,9 @@ Another classmate had given me the idea of putting vinyls on the rotary encoders
 
 #### Execution
 
-Here's a video of the project working, as well as the final source code!
+Here's a [video](https://drive.google.com/file/d/16esVSRQ3alPVk1kufLlmkbxxZRxrYIJB/view?usp=drive_link) of the project working, as well as the final source code!
 
+<!--
 <div>
   <div class="vid-aud">
   <video width="320" height="200" controls>
@@ -168,10 +170,8 @@ Your browser does not support the video tag.
     <i>It Works!</i>
   </h5>
   </div>
-</div>
+</div> -->
 
-#### Final Visualization Code in p5.js
+##### [Final Visualization Code](https://editor.p5js.org/oliviaemlee/sketches/e5eQotsBQ) in p5.js
 
-[videoKILL - fin](https://editor.p5js.org/oliviaemlee/sketches/e5eQotsBQ)
-
-#### [Final Arduino Code](https://editor.p5js.org/oliviaemlee/sketches/eCxUK3-la) typed out in p5.js
+##### [Final Arduino Code](https://editor.p5js.org/oliviaemlee/sketches/eCxUK3-la) typed out in p5.js sketch
