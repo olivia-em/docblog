@@ -21,11 +21,10 @@ templateClass: tmpl-home
     {# After the the content defined in index.md, list the blog posts in the collection #}
     <div class="grid-socials"><div>
       <h4>
-      Fall 2024
-    </h4>
-    <ul>
-      {%- for class in collections.classes -%}
-        <li{% if page.url == class.url %} aria-current="page"{% endif %}><a href='{{ class.url }}'>{{ class.data.title }}</a></li>
+      Spring 2025
+    </h4><ul>
+      {%- for spring2025 in collections.s25 -%}
+        <li{% if page.url == spring2025.url %} aria-current="page"{% endif %}><a href='{{ spring2025.url }}'>{{ spring2025.data.title }}</a></li>
       {%- endfor -%}
 
     </ul>

@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+tags:
+  - class
+  - spring2025
+---
+
+{# This is the template for the Posts page–it lists the posts in the collection #}
+
+<div class="wrapper home">
+  <div>
+    <h3 style="text-align: center;">
+      Computational Approaches to Narrative
+    </h3>
+    <ul class="projects">
+      {%- for catn in collections.catns -%}
+        <li class="projects" {% if page.url == pc.url %} aria-current="page"{% endif %}> <a href='{{ catn.url }}'>{{ catn.data.title }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</div>
