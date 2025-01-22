@@ -14,8 +14,8 @@ tags:
       Computational Approaches to Narrative
     </h3>
     <ul class="projects">
-      {%- for catn in collections.catns -%}
-        <li class="projects" {% if page.url == pc.url %} aria-current="page"{% endif %}> <a href='{{ catn.url }}'>{{ catn.data.title }}</a></li>
+      {%- for hype in collections.hypes -%}
+        <li class="projects" {% if page.url == hype.url %} aria-current="page"{% endif %}> <a href='{{ hype.url }}'>{{ hype.data.title }}</a></li>
       {%- endfor -%}
     </ul>
   </div>
