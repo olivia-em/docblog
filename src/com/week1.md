@@ -24,7 +24,7 @@ tags:
 
 I'm looking to get into making music more regularly, which is one of the reasons why I'm taking this class.
 I recently purchased Ableton, and Prisha just gave me a tutorial on how to use it; this is the first loop I've made so I decided to use it
-for this first assignment. Based on the sounds I was using, I wanted a visual that was really vibey with a moody color palette. I love the way wave forms
+for this first assignment. Based on the sounds I was using, I wanted a visual that was really vibey with a <a target="_blank" href="https://www.pinterest.com/pin/463307880433929087/">moody color palette.</a> I love the way wave forms
 look, so I decided to repurpose the <a target="_blank" href="https://editor.p5js.org/luisa_NYU/sketches/jnextrr-a">filled waveform sketch</a> that was provided during class.
 
 <br>
