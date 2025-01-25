@@ -18,7 +18,16 @@ tags:
   </div>
  <br> 
 
-For this first assignment, 
+I'm looking to get into making music more regularly, which is one of the reasons why I'm taking this class. 
+I recently purchased Ableton, and Prisha just gave me a tutorial on how to use it; this is the first loop I've made so I decided to use it 
+for this first assignment. Based on the sounds I was using, I wanted a visual that was really vibey with a moody color palette. I love the way wave forms 
+look, so I decided to repurpose the <a target="_blank" href="https://editor.p5js.org/luisa_NYU/sketches/jnextrr-a">filled waveform sketch</a> that was provided during class.
+
+<br>
+
+I wanted to create a landscape rather than a bunch of shapes to click on, and then as the loops play, the landscape changes. It just made sense to me that the waveform would respond to the beat.
+The chords sound ethereal, so I thought a glowing/gradient background would go well. Then I just wanted to add stars, because I like them. I used this <a target="_blank" href="https://editor.p5js.org/jesse_harding/sketches/0szF7gcAx">sketch</a> as a reference. 
+The plucking sound is pretty electronic/glitchy, and while originally I was going to have it trigger movement, I thought a random color change would add depth to the environment and look better. This worked out because the melody   
 
 
 
