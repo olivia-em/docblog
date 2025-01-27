@@ -31,9 +31,31 @@ meaning making.
 <br>
 
 Before the readings, I had a couple ideas going into the prototype, such as having multiple players, strict rules for how to play cards, and specific written out descriptions assigned to every card. 
-Ultimately, I didn't like that and that's not how I'd like to approach story telling. This was cemented by 
+Ultimately, I didn't like that and that's not how I'd like to approach story telling. This was cemented by the Jesper Juul reading/game, from which my big takeaway 
+was that the definition of reality is up to interpretation and the rules/context of the world you're building. In that reading, Juul quotes
+Roland Barthes and the sentiment was that details make reality. This may be roundabout, but if my favorite part of tarot is that my interpretation is my own and I can come up with 
+the details I think make sense, then why would I want a story generator which creates the reality and details for you?? I would rather have something that 
+encourages idea generation with guiding themes concepts that I can manipulate myself. 
+
+<br>
+
+So rather than creating a story generator exactly, I decided to make a story <i>outline</i> generator, which 
+can be used as a tool for story making. 
+
+<br>
 
 ##### Goals
+
+I wanted to make sure that the important aspects of a story are accounted for, but the method is easily adapted to the users desires. 
+Tarot cards already have meanings attached to them, which can work together across cards in interesting ways. The Major Arcana are meant to be 
+overarching and have powerful meaning, while the Minor Arcana focus on day to day emotions & conflict. 
+
+<br>
+
+In my mind, stories require a character with motivations, a beginning, an ending, and a varying number of action/reaction combinations. 
+I thought saying 'conflict' would be too vague, because how are we defining conflict? What if I don't want conflict, but just want to tell a story with a flow of events? 
+I'm thinking about 
+
 
 ##### Execution
 
