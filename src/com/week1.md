@@ -13,7 +13,7 @@ tags:
 #### Making an Audio-Visual Instrument (1.1 & 1.2)
 
 <div class="img-div">
-<img class="blog-img" alt="design table (Sketch)" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_5732.JPG?v=1737834304686">
+<img class="blog-img" alt="design table (Sketch)" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_5732.JPG?v=1737834304686">
 
   </div>
  <br>
