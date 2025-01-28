@@ -46,17 +46,34 @@ can be used as a tool for story making.
 
 ##### Goals
 
-I wanted to make sure that the important aspects of a story are accounted for, but the method is easily adapted to the users desires. 
+I wanted to make sure that the important aspects of a story are accounted for, but the method is easily tailored to the user's needs. 
 Tarot cards already have meanings attached to them, which can work together across cards in interesting ways. The Major Arcana are meant to be 
-overarching and have powerful meaning, while the Minor Arcana focus on day to day emotions & conflict. 
+overarching and have powerful meaning, while the Minor Arcana focus on day to day emotions, desires, and action/reaction to events. 
 
 <br>
 
 In my mind, stories require a character with motivations, a beginning, an ending, and a varying number of action/reaction combinations. 
 I thought saying 'conflict' would be too vague, because how are we defining conflict? What if I don't want conflict, but just want to tell a story with a flow of events? 
-I'm thinking about 
+I'm thinking about, specifically as an example, fluff romance fanfictions which don't necessarily have an overarching conflict. So in this generator, 
+I didn't want to imply that conflict was entirely necessary. 
 
+<br>
+
+I developed a spread with rules, guidelines, and contextualizing questions which the user can user to come up with a story outline. 
+
+<br>
 
 ##### Execution
+
+In the spread, you select one or more Major Arcana to contextualize your story. This could be for the overarching theme or worldbuilding.
+Then, from the face cards of the Minor Arcana (page, knight, queen, and king), you pick your characters. You have the option to choose as many characters as you like, or add more as the plot
+progresses to meet your interpretive needs. The suits in combination with the card type will determine your character's motivations and personality. You can pick the characters and worldbuilding/themes randomly 
+or choose specific ones for your taste. 
+
+<br>
+
+For the story itself, you will randomly choose a Major Arcana for the beginning, change of pace (optional), and ending. Keep in mind orientation can change the meaning of the card. 
+
+
 
 ##### Questions & Doubts
