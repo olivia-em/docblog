@@ -13,6 +13,8 @@ tags:
 
 #### Story Outline Generator using Tarot Cards
 
+<a target="_blank" https://docs.google.com/spreadsheets/d/1_QKbCwD0qeoqX_8haxah3UfbEmaaPriJvkhK2mX4lHY/edit?usp=sharing
+
 <div class="img-div">
 <img class="blog-img" alt="diagram & rules" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_5766.JPG?v=1738018147468">
 <img class="blog-img" alt="example spread" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_5764.JPG?v=1738018141465">
@@ -79,4 +81,14 @@ Within that timeline, you will pick from the Minor Arcana, numbers 1-10, and ran
 The suits will be sorted, so you'll get to choose if your action/reaction is related to emotional states & relationships (cups), the physical aspects of the world (pentacles), power/conflict (swords), or consciousness/self-actualization (wands).
 Lastly, you will use your understanding of Tarot or the booklet given with your deck of cards to interpret the timeline of events. 
 
-##### Questions & Doubts
+<br>
+
+##### Questions, Doubts, & Ambitions
+
+This prototype was exactly what I was looking for, although I do have some thoughts about the type of person this is for. After playtesting it myself, I do think that 
+it puts A LOT of responsibility on the player. I think it's a tool for people with writer's block or those who want to come up with and build on an idea. It does not
+produce a fully fleshed out story you can read unless the player does it themselves. I find it incredibly entertaining, but someone else might find it tedious. 
+So then, did I even fulfill the assignment of a story generator... well that depends on interpretation. Personally, I think it's better than a story generator. 
+When I use it, I feel creatively in control. I love that two people could have the same spread in front of them and produce a completely different story from one another,
+while still following the same outline. 
+
