@@ -31,11 +31,13 @@ meaning making.
 <br>
 
 Before the readings, I had a couple ideas going into the prototype, such as having multiple players, strict rules for how to play cards, and specific written out descriptions assigned to every card. 
-Ultimately, I didn't like that and that's not how I'd like to approach story telling. This was cemented by the Jesper Juul reading/game, from which my big takeaway 
+I'm a big table-top game player, especially card games, RPGs, and social-deduction games, so I can see why I went in that direction of game-ifying the generator.
+Ultimately, I didn't like that and that's not how I'd like to approach story telling. I think prioritizing interpretation as the method for story generation is much more important to me than simply rearranging pre-planned ideas. 
+This was cemented by the Jesper Juul reading/game, from which my big takeaway 
 was that the definition of reality is up to interpretation and the rules/context of the world you're building. In that reading, Juul quotes
-Roland Barthes and the sentiment was that details make reality. This may be roundabout, but if my favorite part of tarot is that my interpretation is my own and I can come up with 
+Roland Barthes and the sentiment was that details make reality. This may be roundabout, but if my favorite part of Tarot is that my interpretation is my own and I can come up with 
 the details I think make sense, then why would I want a story generator which creates the reality and details for you?? I would rather have something that 
-encourages idea generation with guiding themes concepts that I can manipulate myself. 
+encourages idea generation with guiding themes & concepts that I can manipulate myself. 
 
 <br>
 
@@ -73,7 +75,8 @@ or choose specific ones for your taste.
 <br>
 
 For the story itself, you will randomly choose a Major Arcana for the beginning, change of pace (optional), and ending. Keep in mind orientation can change the meaning of the card. 
-
-
+Within that timeline, you will pick from the Minor Arcana, numbers 1-10, and randomly select action & reaction combinations. You need at least one without a change of pace, or at least two when using a change of pace.
+The suits will be sorted, so you'll get to choose if your action/reaction is related to emotional states & relationships (cups), the physical aspects of the world (pentacles), power/conflict (swords), or consciousness/self-actualization (wands).
+Lastly, you will use your understanding of Tarot or the booklet given with your deck of cards to interpret the timeline of events. 
 
 ##### Questions & Doubts
