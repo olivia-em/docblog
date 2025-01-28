@@ -11,9 +11,7 @@ tags:
 
 <br>
 
-#### Story Outline Generator using Tarot Cards
-
-<a target="_blank" https://docs.google.com/spreadsheets/d/1_QKbCwD0qeoqX_8haxah3UfbEmaaPriJvkhK2mX4lHY/edit?usp=sharing
+#### <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_QKbCwD0qeoqX_8haxah3UfbEmaaPriJvkhK2mX4lHY/edit?usp=sharing">Story Outline Generator</a> using Tarot Cards
 
 <div class="img-div">
 <img class="blog-img" alt="diagram & rules" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_5766.JPG?v=1738018147468">
@@ -27,7 +25,7 @@ tags:
 After doing the readings, a bunch of ideas were popping out at me in regards to how I should approach this assignment. 
 I personally use Tarot Cards as a way to make sense of my life when I'm feeling lost. I don't necessarily believe that they have a mystical power, but 
 I do think they can help illuminate patterns or assist in creating connections which that you didn't see before (although that is my own belief, and others do not have to agree with it).
-Also, Tarot has a <a target="_blank" src="https://3quarksdaily.com/3quarksdaily/2022/02/the-tarot-narrative-therapy-self-making.html">rich history</a> and is already its own system for storytelling and 
+Also, Tarot has a <a target="_blank" href="https://3quarksdaily.com/3quarksdaily/2022/02/the-tarot-narrative-therapy-self-making.html">rich history</a> and already has its own system for storytelling and 
 meaning making. 
 
 <br>
@@ -37,9 +35,12 @@ I'm a big table-top game player, especially card games, RPGs, and social-deducti
 Ultimately, I didn't like that and that's not how I'd like to approach story telling. I think prioritizing interpretation as the method for story generation is much more important to me than simply rearranging pre-planned ideas. 
 This was cemented by the Jesper Juul reading/game, from which my big takeaway 
 was that the definition of reality is up to interpretation and the rules/context of the world you're building. In that reading, Juul quotes
-Roland Barthes and the sentiment was that details make reality. This may be roundabout, but if my favorite part of Tarot is that my interpretation is my own and I can come up with 
-the details I think make sense, then why would I want a story generator which creates the reality and details for you?? I would rather have something that 
-encourages idea generation with guiding themes & concepts that I can manipulate myself. 
+Roland Barthes and the sentiment was that details make reality. On top of that, my favorite part about <i>Her Story</i> was that 
+no matter what, you're not given all the information (or at least it is really hard to attain), and the information you get is determined by how hard 
+you want to work for it and the key words you think are important. These were the ideas I wanted to reflect in my protoype. 
+This may be roundabout, but if my favorite part of Tarot is that my interpretation is my own and I can come up with 
+the details that I think make sense, then why would I want a story generator which creates the reality and details for me?? That's the fun part! 
+I would rather have something that encourages idea generation with guiding themes & concepts that I can manipulate myself. 
 
 <br>
 
@@ -90,5 +91,6 @@ it puts A LOT of responsibility on the player. I think it's a tool for people wi
 produce a fully fleshed out story you can read unless the player does it themselves. I find it incredibly entertaining, but someone else might find it tedious. 
 So then, did I even fulfill the assignment of a story generator... well that depends on interpretation. Personally, I think it's better than a story generator. 
 When I use it, I feel creatively in control. I love that two people could have the same spread in front of them and produce a completely different story from one another,
-while still following the same outline. 
+while still following the same outline. Overall, I think this prototype is for a specific audience and that's okay with me.
+
 
