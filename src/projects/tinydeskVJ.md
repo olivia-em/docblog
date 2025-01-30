@@ -1,5 +1,5 @@
 ---
-title: TinyDesk VJ (PComp & ICM Final)
+title: TinyDesk VJ
 class: PComp
 url: /classes/physcomp/
 when: Weeks 10-13
