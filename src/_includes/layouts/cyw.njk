@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+tags:
+  - class
+  - spring2025
+---
+
+<div class="wrapper home">
+  <div>
+    <h3 style="text-align: center;">
+      Code Your Way
+    </h3>
+    <ul class="projects">
+      {%- for cyw in collections.cyws -%}
+        <li class="projects" {% if page.url == cyw.url %} aria-current="page"{% endif %}> <a href="{{ cyw.url }}">{{ cyw.data.title }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</div>

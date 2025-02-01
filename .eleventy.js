@@ -44,146 +44,63 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setBrowserSyncConfig({ ghostMode: false });
 
-  /* Build the collection of posts to list in the site
-     - Read the Next Steps post to learn how to extend this
-  */
+
   eleventyConfig.addCollection("classes", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
-
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("class");
-
-    // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
-    // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
-
+       const coll = collection.getFilteredByTag("class");
     return coll;
   });
 
   eleventyConfig.addCollection("apps", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
-
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("app");
-
-    // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
-    // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
-
+      const coll = collection.getFilteredByTag("app");
     return coll;
   });
 
   eleventyConfig.addCollection("hypes", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
-
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("hype");
-
-    // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
-    // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
-
+       const coll = collection.getFilteredByTag("hype");
     return coll;
   });
 
   eleventyConfig.addCollection("icms", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
-
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("icm");
-
-    // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
-    // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
+     const coll = collection.getFilteredByTag("icm");
 
     return coll;
   });
 
   eleventyConfig.addCollection("pcs", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
-
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("pc");
-
-    // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
-    // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
-
+      const coll = collection.getFilteredByTag("pc");
     return coll;
   });
 
   eleventyConfig.addCollection("catns", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
-
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
     const coll = collection.getFilteredByTag("catn");
-
-    // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
-    // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
-
     return coll;
   });
   
   eleventyConfig.addCollection("coms", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
+       const coll = collection.getFilteredByTag("com");
 
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("com");
-
-    // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
-    // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
-
+     return coll;
+  });
+  
+    eleventyConfig.addCollection("cyws", function (collection) {
+      const coll = collection.getFilteredByTag("cyw");
     return coll;
   });
 
   eleventyConfig.addCollection("f24", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
-
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("fall2024");
+      const coll = collection.getFilteredByTag("fall2024");
 
     return coll;
   });
 
   eleventyConfig.addCollection("s25", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
-
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("spring2025");
+     const coll = collection.getFilteredByTag("spring2025");
 
     return coll;
   });
 
   eleventyConfig.addCollection("projects", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
-
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("project");
+     const coll = collection.getFilteredByTag("project");
 
     return coll;
   });
