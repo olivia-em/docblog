@@ -16,23 +16,34 @@ tags:
 ">  </div>
  <br>
 
-##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/d3LhfYCKx">audioVisualizer</a>
+##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/KlU9iXRev">Encode 1</a>
 
 <br>
 
-I'm looking to get into making music more regularly, which is one of the reasons why I'm taking this class.
-I recently purchased Ableton, and Prisha just gave me a tutorial on how to use it; this is the first loop I've made so I decided to use it
-for this first assignment. Based on the sounds I was using, I wanted a visual that was really vibey with a <a target="_blank" href="https://www.pinterest.com/pin/463307880433929087/">moody color palette.</a> I love the way wave forms
-look, so I decided to repurpose the <a target="_blank" href="https://editor.p5js.org/luisa_NYU/sketches/jnextrr-a">filled waveform sketch</a> that was provided during class.
+I was surprised by how helpful this encode process was. For this first one, I could tell that all of the shapes/dimensions were proportional
+to one another, but I wasn't really sure how it was coded. Once I understood that, all of the other examples were easier to understand, because
+they had a simple structure that I could understand, but played with a couple concepts I hadn't used much, like trigonometry and proportional dimensions.
+After this first one, I decided that while remvamping each sketch, I wanted them to be thematically similar. So once I got a color changing loop working (which was
+something I had learned for ICM last semester, I reused it while also playing with other aspects. Stylistically, I love blending modes A LOT, especially difference, so I carried that through
+as well.
+
+##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/35ZIDviOf">Encode 2</a>
 
 <br>
 
-I wanted to create a landscape rather than a bunch of shapes to click on, and then as the loops play, the landscape changes. It just made sense to me that the waveform would respond to the beat.
-The chords sound ethereal, so I thought a glowing/gradient background would go well. Then I just wanted to add stars, because I like them. I used this <a target="_blank" href="https://editor.p5js.org/jesse_harding/sketches/0szF7gcAx">sketch</a> as a reference.
-The plucking sound is pretty electronic/glitchy, and while originally I was going to have it trigger movement, I thought a random color change would add depth to the environment and look better. This worked out because the melody triggers movement anyway. I was struggling to get horizontal movement with regeneration on my own, so I got a couple lines of code from chatGPT
-which I've commented on in the sketch. I'm actually really happy I did that, because it had the speed be proportional to star sizes, which makes the sketch look three dimensional. I definitely wouldn't have figured that out on my own, and I think it looks super cool.
+For this one, I totally understood the mechanics without seeing the code, because we had worked on this in ICM. However, I didn't know you could use 
+trigonometry to create a dynamic speed. It took me a while to comment out certin things and work the code backward to understand how 
+
+##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/76VEVYY1W">Encode 3</a>
 
 <br>
 
-Some things I'm not super happy about would be that it's kind of hard to trigger the loops with good timing so that they sound good together. The best option is to just press the keys all at once, which makes a nice loop.
-However, I don't think it's really that playable as an instrument, and that's something I want to workshop for sure.
+##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/s-rVtYYMw">Encode 4</a>
+
+<br>
+
+##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/rujaU7wV5">Encode 5</a>
+
+<br>
+
+##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/qfQDHSGA1">preLoader</a>
