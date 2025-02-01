@@ -18,7 +18,6 @@ tags:
 
 ##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/KlU9iXRev">Encode 1</a>
 
-<br>
 
 I was surprised by how helpful this encode process was. For this first one, I could tell that all of the shapes/dimensions were proportional
 to one another, but I wasn't really sure how it was coded. Once I understood that, all of the other examples were easier to understand, because
@@ -29,37 +28,27 @@ as well.
 
 ##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/35ZIDviOf">Encode 2</a>
 
-<br>
-
 For this one, I totally understood the mechanics without seeing the code, because we had worked on this in ICM. However, I didn't know you could use 
 trigonometry to create a dynamic speed. It took me a while to comment out certin things, work the code backwards, and talk it out with Omi so I could understand the math behind the sketch.
 From there I just wanted to see how other functions (like tangent) could change the movement. 
 
 ##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/76VEVYY1W">Encode 3</a>
 
-<br>
-
 I understood this one pretty immediately because it was using sine to affect the stroke weight with a similar ease with which the 
 speed moved in the previous sketch. I just messed around with duplicating the circles and then made it change x & y position with limits to create a bouncy ball effect. 
 
 ##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/s-rVtYYMw">Encode 4</a>
-
-<br>
 
 This one was pretty easy to understand, because I knew how the square was rotating in the very first sketch, and that adding space to the x & y positions would move the object away from the origin 
 while still rotating. 
 
 ##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/rujaU7wV5">Encode 5</a>
 
-<br>
-
 I was really confused with this one because I assumed it was similar to the last one, just slower? But actually it was redrawing the circle at different positions
 on a radius, rather than rotating the circle about an axis. 
 
-
 ##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/qfQDHSGA1">preLoader</a>
 
-<br>
-
 Ok so I didn't really follow the directions. I wanted to make a loading loop with a similar logic to these ones, because I really 
-like them and they're my artistic style. I was thinking about 
+like them and they're my artistic style. I was thinking about spinning shapes, like the gear on the icon resource given to us. I wanted a bit of an optical illusion
+because I think a preloader should be interesting to look at because why should you be bored waiting for the content you want to see? 
