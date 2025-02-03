@@ -26,3 +26,5 @@ mixer to have a similar visual style. I wanted a layered visual, similar to turn
 I used the code for the <a target="_blank" href="https://editor.p5js.org/luisa_NYU/sketches/uDhMc-dhK">waveform circle</a> to get
 the vocal loop represented by the dot circle. I used Chat GPT to get the sibling loops to both trigger the same shape, rather than have
 a shape for each loop. Justin got the stems and the quantized vocals to work.
+
+Keys 1-3 control one set of loops, while 8-0 control their siblings. The hitting the space bar starts and stops a recording from your computer's microphone.  
