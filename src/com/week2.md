@@ -20,9 +20,9 @@ tags:
 
 ##### <a target="_blank" href="https://justinjohnso-itp.github.io/cmus-interactive-composition/">loopLauncher</a>
 
-<br>
-
-<a target="_blank" href="https://olivia-em.github.io/codeyourway/preLoader/index.html">preLoader</a>
-
-<br>
-
+Justin and I wanted to do a loop launcher that had the ability to record vocal loops as well. For the visualization, I made this
+<a target="_blank" href="https://olivia-em.github.io/codeyourway/preLoader/index.html">preLoader</a> for another class and wanted the
+mixer to have a similar visual style. I wanted a layered visual, similar to turning gears, where each shape was assigned to a set of loops.
+I used the code for the <a target="_blank" href="https://editor.p5js.org/luisa_NYU/sketches/uDhMc-dhK">waveform circle</a> to get
+the vocal loop represented by the dot circle. I used Chat GPT to get the sibling loops to both trigger the same shape, rather than have
+a shape for each loop. Justin got the stems and the quantized vocals to work.
