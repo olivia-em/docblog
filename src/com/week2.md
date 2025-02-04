@@ -27,4 +27,15 @@ I used the code for the <a target="_blank" href="https://editor.p5js.org/luisa_N
 the vocal loop represented by the dot circle. I used Chat GPT to get the sibling loops to both trigger the same shape, rather than have
 a shape for each loop. Justin got the stems and the quantized vocals to work.
 
-Keys 1-3 control one set of loops, while 8-0 control their siblings. The hitting the space bar starts and stops a recording from your computer's microphone.  
+Keys 1-3 control one set of loops, while 8-0 control their siblings. The hitting the space bar starts and stops a recording from your computer's microphone.
+
+<div>
+  <div class="vid-aud">
+  <video width="320" height="200" controls>
+  <source src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/week-2-homework-composition.mp4?v=1738685573016" >
+Your browser does not support the video tag.
+</video><h5>
+    <i>Composition</i>
+  </h5>
+  </div>
+</div>
