@@ -17,21 +17,21 @@ tags:
 
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/encode2.1/index.html">Encode 2.1</a>
 
-This first one was pretty easy to understand, because I've made grids before in p5. What
+This first one was pretty easy to understand, because I've made grids before in p5. As I do the encode process more, I'm realizing that I understand how code works
+more than I can rewrite it verbatim. For example, I can't replicate the exact dimensioning in my head, but I know it's something proportional to the window. Or, I know of a way to do something
+but then the code uses a different way to achieve a similar effect to what I had in my head. 
 
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/encode2.2/index.html">Encode 2.2</a>
 
+Similarly here, I thought that the code was just drawing three rectangles in an x-position for-loop, but instead it was working like the grid in the first example, taking into account y-position. 
+Between the encoding and decoding, I find decoding the most fun but encoding is more useful because I'm beginning to systematically understand how to recreate art that I like with code.
 
 <div class="img-div">
 <img class="blog-img" alt="pseudocode" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_6202.jpg?v=1739834824506">
 </div>
  <br>
  
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode2.1/index.html">Decode 2.1</a>
-
-Similarly, I knew what this one was going to look like mostly. My sketch isn't as accurate as my description in the notes. 
-For my edits, I wanted more of the rectangles to be vertical, so I changed the if-statement. I also added an ellipse on top and 
-random color. 
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode2.1/index.html">Decode 2.1</a> 
 
 <div class="img-div">
 <img class="blog-img" alt="pseudocode" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_6203.jpg?v=1739834834299">
@@ -40,12 +40,7 @@ random color.
  
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode2.2/index.html">Decode 2.2</a>
 
-OKAY, so this one got a little crazy. I spent WAY too much time on it. I new what it was going to look like sort of. I thought there would
-be more of a padding, but then I realized only the starting points were limited, rather than the end points as well. I initially changed the lines
-to multiple <a target="_blank" href="https://p5js.org/reference/p5/curveVertex/">curves</a>. Then, I wanted the padding to shaped them into a circle like 
-a ball of yarn. After adding fill, I noticed it was looking like a kaleidoscope, so I tried to replicate that by using <a target="_blank" href="https://editor.p5js.org/allison.parrish/sketches/kOHWUvQR1">mask image</a>
-to mask the pattern into a circle. I added rotation and saw that once I duplicated it over top, it really looked like a kaleidoscope. 
-
+I didn't really struggle with understanding these two sketches because they are a lot like 1. the sketch I made last 
  
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/recode2.1/index.html">Recode 2.1</a>
 
