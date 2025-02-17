@@ -40,19 +40,16 @@ Between the encoding and decoding, I find decoding the most fun but encoding is 
  
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode2.2/index.html">Decode 2.2</a>
 
-I didn't really struggle with understanding these two sketches because they are a lot like 1. the sketch I made last 
+I didn't really struggle with understanding these two sketches because they are a lot like 1. the sketch I made last week and 2. a patternmaker I made in ICM last semester. I repurposed one of my sketches
+from last week that also used createGraphic to fill in the half circles for 2.2. 
  
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/recode2.1/index.html">Recode 2.1</a>
 
-So for this one, I understood conceptually what was happening, but I didn't realize the lines draw would be 
-so much smaller. Therefore, I didn't realize the line would be very smooth. I added noise to change the color. 
-However, I don't fully understand why the gradient seems to be across the canvas rather than following the line. I thought it looked cool;
-a happy accident. 
+It was really refreshing to see a piece from the slides and know exactly how to code it. It was really quick, especially using Decode 2.1 as a framework.
 
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/recode2.2/index.html">Recode 2.2</a>
 
-Doing this assignment was really tough because noise is so hard on my computing power. I accidentally made my app storage overload
-because I had it looping in a non-optimized fashion. I also wasn't really sure what I wanted to do. I want to get into glitch art
-so I thought I could have noise change a bunch of grid squares, like pixels. But, I kinda got lost in the sauce 
-for a while, and nothing I did really made me happy. I ended up with this; not really sure how I got here. I just kept changing variables and 
-adding functions until I thought it looked cool. 
+After using Github Copilot, I feel a lot better about my understanding of code. I wanted the designs to swap places, and when I gave my initial few prompts, it just kept giving me code that didn't work. 
+When I would ask it to change things, it just wrote more functions that also didn't do what I visually wanted to do. However, I knew a better way of structuring the code / a different method and eventually had the AI start from scratch 
+and gave it prompted for specifically that method. I was sort of testing the AI to see if it would try different methods on its own after I said something wasn't working, but very often it wouldn't change much and 
+gave me code that didn't work or didn't even adhere to my prompts in the strictest sense. I can definitely see how AI needs to be used by people who understand what they want and know how to ask for it. 
