@@ -20,7 +20,7 @@ tags:
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode3.2/index.html">Encode 2.2</a>
 
 So I wanted to try some 3D stuff this week, and I thought this sketch would be cool to add z-axis dimensions. I did you chatGPT
-to help me with necessar structure because I've never used webGL before. The one big issue I faced wi
+to help me with necessar structure because I've never used webGL before. The one big issue I faced with this sketch and 
  
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode3.3/index.html">Decode 2.1</a> 
 
