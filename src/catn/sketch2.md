@@ -28,5 +28,6 @@ a cycle until you've exhausted yourself, then finding a way out, can be mapped t
 
 I was inspired by Anne Carson's <i>Eros the Bittersweet</i>, and pulled content from there, as well as other writers and my own poetry. The way I placed content
 was based on themes: lover, beloved, beautiful, and foiled. The cycles you chose to enter determine the final piece of writing you received (four outcomes). I struggled with a few things while making this, 
-mainly learning how to add javascript, realizing that text inside sugarcube script has a different 
+mainly learning how to add javascript, realizing that text inside sugarcube script is structured differently than in the passage, and having to build in order to really check if things looked right visually. It was
+overall a pretty tedious process. 
 
