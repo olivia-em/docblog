@@ -13,19 +13,18 @@ tags:
 #### <a target="_blank" href="https://olivia-em.github.io/bittersweet/">Bittersweet:</a> a Twine Game
 
 <div class="img-div">
-<img class="blog-img" alt="diagram & rules" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_5766.JPG?v=1738018147468">
-<img class="blog-img" alt="example spread" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_5764.JPG?v=1738018141465">
+<img class="blog-img" alt="structure diagram" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202025-02-24%20at%202.41.17%E2%80%AFPM.png?v=1740498221948">
 
   </div>
  <br>
 
-##### Brainstorming
+##### Brainstorming & Goals
 
-
-<br>
-
-##### Goals
-
+In another class, I was working on a command line scavenger hunt where you traverse a folder through the terminal. The structure I 
+created for that sort of informed this project (or vice versa, because I was sort of working on them at the same time). I wanted to have a narrative where you 
+have some choices, and then you have to move through a side cycle before moving forward again. This made me think of a forest path, where you can choose a direction and then you have to explore to find your way out. 
+In fact, a forest walk was my theme for the scavenger hunt, BUT for this Twine game, I wanted to incorporate poetry about love. That structure of living through 
+a cycle until you've exhausted yourself, then finding a way out, can be mapped to bad or incompatible love. 
 
 <br>
 
