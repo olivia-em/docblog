@@ -1,6 +1,6 @@
 ---
-title: Sketch 1
-when: January 22nd, 2025
+title: Sketch 2
+when: February 12th, 2025
 layout: layouts/blog.njk
 class: Computational Approaches to Narrative
 url: /classes/catn/
