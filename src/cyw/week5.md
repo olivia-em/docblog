@@ -10,6 +10,9 @@ tags:
 
 #### <a target="_blank" href="https://github.com/olivia-em/codeyourway">Exploring Parametrics</a>
 
+<br>
+<div style="display:flex;flex-direction: rows;flex-wrap: wrap;justify-content:center;">
+  
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore1/index.html">Explore 1</a>
 
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore2/index.html">Explore 2</a>
@@ -25,3 +28,14 @@ tags:
 
 
 ##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/screensaver/index.html">Screensaver</a>
+
+</div>
+
+<br>
+
+I was in a little bit of a rut with these ones at first, but by the end I was really into some of them. Explore 4 and 5, as well as the 
+screensaver were my favorites. I would definitely say that chatGPT helped a lot this week, but I had a very clear vision for how I wanted things
+and had to go back and forth with AI, then edit the code myself for a while, then maybe go back again to repeat the cycle. Stylistically, I think I like the 
+sketches that look like lights the most, and the 3D aspect is super fun as well. 
+
+As for github, I already had a repository for this class, and I typically use github desktop to update the repo with different versions. 
