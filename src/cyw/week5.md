@@ -38,4 +38,5 @@ screensaver were my favorites. I would definitely say that chatGPT helped a lot 
 and had to go back and forth with AI, then edit the code myself for a while, then maybe go back again to repeat the cycle. Stylistically, I think I like the 
 sketches that look like lights the most, and the 3D aspect is super fun as well. 
 
-As for github, I already had a repository for this class, and I typically use github desktop to update the repo with different versions. 
+As for github, I already had a repository for this class, and I typically use github desktop to update the repo with different versions. I think I'll have to take some time to get used to using the 
+command line instead. 
