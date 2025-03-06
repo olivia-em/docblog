@@ -15,7 +15,7 @@ tags:
 </div>
  <br>
 
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode1/index.html">Decode 1</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode/decode1/index.html">Decode 1</a>
 
 
 For this sketch, I had a pretty good idea of what it would look like initially. Or rather, conceptually I understood
@@ -29,7 +29,7 @@ a square.
 </div>
  <br>
  
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode2/index.html">Decode 2</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode/decode2/index.html">Decode 2</a>
 
 Similarly, I knew what this one was going to look like mostly. My sketch isn't as accurate as my description in the notes. 
 For my edits, I wanted more of the rectangles to be vertical, so I changed the if-statement. I also added an ellipse on top and 
@@ -40,7 +40,7 @@ random color.
 </div>
  <br>
  
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode3/index.html">Decode 3</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode/decode3/index.html">Decode 3</a>
 
 OKAY, so this one got a little crazy. I spent WAY too much time on it. I new what it was going to look like sort of. I thought there would
 be more of a padding, but then I realized only the starting points were limited, rather than the end points as well. I initially changed the lines
@@ -53,7 +53,7 @@ to mask the pattern into a circle. I added rotation and saw that once I duplicat
 </div>
  <br>
  
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode4/index.html">Decode 4</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode/decode4/index.html">Decode 4</a>
  
 I tried to move quicker on this one after the last one. I knew what it would look like and decided to have all the start
 points be in the center. After messing with blending modes, I think it looks like lasers. 
@@ -63,14 +63,14 @@ points be in the center. After messing with blending modes, I think it looks lik
 </div>
  <br>
  
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode5/index.html">Decode 5</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/decode/decode5/index.html">Decode 5</a>
 
 So for this one, I understood conceptually what was happening, but I didn't realize the lines draw would be 
 so much smaller. Therefore, I didn't realize the line would be very smooth. I added noise to change the color. 
 However, I don't fully understand why the gradient seems to be across the canvas rather than following the line. I thought it looked cool;
 a happy accident. 
 
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/recode/index.html">re/code</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/recode/recode1/index.html">re/code</a>
 
 Doing this assignment was really tough because noise is so hard on my computing power. I accidentally made my app storage overload
 because I had it looping in a non-optimized fashion. I also wasn't really sure what I wanted to do. I want to get into glitch art

@@ -13,21 +13,21 @@ tags:
 <br>
 <div style="display:flex;flex-direction: rows;flex-wrap: wrap;justify-content:center;">
   
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore1/index.html">Explore 1</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore/explore1/index.html">Explore 1</a>
 
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore2/index.html">Explore 2</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore/explore2/index.html">Explore 2</a>
 
 
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore3/index.html">Explore 3</a> 
-
- 
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore4/index.html">Explore 4</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore/explore3/index.html">Explore 3</a> 
 
  
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore5/index.html">Explore 5</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore/explore4/index.html">Explore 4</a>
+
+ 
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/explore/explore5/index.html">Explore 5</a>
 
 
-##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/screensaver/index.html">Screensaver</a>
+##### <a target="_blank" href="https://olivia-em.github.io/codeyourway/recode/screensaver/index.html">Screensaver</a>
 
 </div>
 
