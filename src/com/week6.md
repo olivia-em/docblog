@@ -13,9 +13,13 @@ tags:
 #### Melody
 
 <div class="img-div">
-<img class="blog-img" alt="design plan & sketches" src="">
+<img class="blog-img" alt="design plan & sketches" src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_6521.JPG?v=1741625144543">
   </div>
 
 <br>
  
 ##### <a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/azlC-n3WR"><i>EnvironmentRecorder</i></a>
+
+I wanted a way to record yourself and test out different levels of reverb/delay with interesting visual feedback. I got the basic version working on my own, but
+once I wanted to export, I had trouble. After consulting AI, it was because theres a difference between applying effects to the playback vs. the master. So I had Claude restructure the code so that you could test the effects, and then apply them and export once you're happy.
+It's not a perfect interface, and it requires headphones to listen to the test, but I think it could work maybe for spoken word poetry, environmental recordings, and making backing vocals. I'll need to work on migrating this to my github pages, and then make sure it works on a mobile device.
