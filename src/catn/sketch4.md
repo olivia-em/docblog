@@ -22,4 +22,7 @@ Initially I was thinking of replicating my apartment, but then I was scrolling o
   </div>
  <br>
  
- I derived the structure of my game from the first (three rooms connected by a central vestibule) and the content of the rooms (divine, romantic, and mundane)
+ I derived the structure of my game from the first (three rooms connected by a central vestibule) and the content of the rooms (divine, romantic, and mundane) from the second. 
+ I also wanted to play with the idea of fulfilling conditions in order to win rather than 'getting out' of an exit. Therefore all the pathways out of the rooms are red herrings and lead to the players
+ death. I also loved how in <i>Bronze</i> everytime the player examined the dining hall, a new flashback story would be revealed. I wanted to use this approach to reveal entries in a diary as well. 
+ Because our assignment was to focus on setting, I wanted to play with the idea that these spaces aren't really physical but actually different mindsets. There
