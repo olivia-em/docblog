@@ -21,7 +21,10 @@ tags:
   
 
 I feel like i've come a really long way this week. I finished writing the content, which has felt like the scariest / most nerve-racking part of the process. 
-This is mainly because I'm not the most confident writer and I 
+I've made the protoype of the website. You can click on the poems to zoom and center, you can rotate the poems in the row, and then you can rotate the web as a whole. 
+There's still some things that aren't in there yet, like the effect on the surrounding texts. Right now everything is a png image, but eventually the surrounding texts will be more like coded visuals. I plan to map the rotation of the each subtext's corresponding poem to the parameters of 
+the subtext's effect. For example, although not exactly what I want, I have a p5 sketch linked above that stretches the text with the mouseX & mouseY so I'm going to work on a similar interaction. 
+Also I don't have any signposting for how to interact yet. I'm not sure if its intuitive or hard, and whether or not there's poetic merit in that. 
 
   <div class="vid-aud">
   <video width="320" height="200" controls>
