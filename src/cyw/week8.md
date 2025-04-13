@@ -18,7 +18,7 @@ tags:
 
 </div>
 
-I feel like i've come a really long way this week. I finished writing the content, which has felt like the scariest / most nerve-racking part of the process.
+I feel like I've come a really long way this week. I finished writing the content, which has felt like the scariest / most nerve-racking part of the process.
 I've made the protoype of the website. You can click on the poems to zoom and center, you can rotate the poems in the row, and then you can rotate the web as a whole.
 There's still some things that aren't in there yet, like the effect on the surrounding texts. Right now everything is a png image, but eventually the surrounding texts will be more like coded visuals. I plan to do higher resolution images for the center row,
 as well as map the rotation of the each subtext's corresponding poem to the parameters of
