@@ -24,7 +24,9 @@ I believe I've come to a solid first draft of my project. The content is written
 The only things I might change are using different effects to unscramble the text and/or adding project description pages.  
 
 I knew I wanted to map the rotation of the inner poems so that interacting with them with unscramble the related subtext on the outside. So I separately worked on that with some help from ChatGPT. Once it looked how I wanted it,
-I merged it with the react code. Github Copi
+I merged it with the react code. Github Copilot was super helpful, although tedious. I also launched it on netlify so now anyone can look at the progress. 
+
+I'm wondering if I should have some other pages or if it should just speak for itself. 
 
 
 <div class="img-div">
