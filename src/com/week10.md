@@ -27,4 +27,4 @@ For now, Prisha and I worked on this code which contains a video manager, tone p
 from a sensor (object picked up) a random video, interview clip, and chords will start looping. You can layer videos and chords together. A time of flight sensor affects
 the delay on the chords. The root of the chords is randomly selected and each one builds on that.
 
-This is repo is pretty far a long because Prisha and I have been working on this since spring break, but we incorporated the harmony 
+This is repo is pretty far a long because Prisha and I have been working on this since spring break, but we incorporated the harmony this past week.
