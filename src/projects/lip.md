@@ -30,4 +30,13 @@ was therapeutic.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/board/vDXCJi2QHw0K9Blf3hi0el/Lessons-in-Perspective?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-This was my initial project plan, in which there would be some sort of main text in 3D page, and then zooming out would reveal subtexts. A key interaction that 
+<br><br>
+
+This was my initial project plan, in which there would be some sort of main text in 3D page, and then zooming out would reveal subtexts. My first proof of concept was a basic Three.js page with two cubes. The user could rotate either cube individually or rotate the scene
+as a whole. Once I got that working, I knew I could achieve an expanded version. 
+
+#### [Writing](https://docs.google.com/document/d/1QZ2nN5u5q2l1qOvAAPWlnl6e6UL9sjyc2AEvdsX9_FM/edit?usp=sharing)
+
+I wrote from personal experience, so I started by just dumping a lot of stuff on the page. The main text is broken into 5 sections, which are about 5 confrontations that came over the course of being involved with a person. 
+Each situation relates to a subtext, a short prose excerpt about a person from the past who treated me similarly. Going into the writing, I really felt like these connections meant I should have known better at the time. However, 
+as I wrote I realize that this process is what allowed me to understand the connections, just really sitting down to think through the past and try to see something from many angles. So I think the content strays away from that initial idea of
