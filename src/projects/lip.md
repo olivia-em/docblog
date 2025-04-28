@@ -42,7 +42,7 @@ Each situation relates to a subtext, a short prose excerpt about a person from t
 as I wrote I realize that this process is what allowed me to understand the connections, just really sitting down to think through the past and try to see something from many angles. So I think the content strays away from that initial idea, which I'm actually happy about 
 because it seems like a harmful mentality. 
 
-#### [Prototyping](https://docs.google.com/document/d/1QZ2nN5u5q2l1qOvAAPWlnl6e6UL9sjyc2AEvdsX9_FM/edit?usp=sharing)
+#### [Prototyping](https://docblog-olee.glitch.me/cyw/week10/)
 
   <div class="vid-aud">
   <video width="320" height="200" controls>
@@ -60,3 +60,16 @@ of the content more than what already going on. So I decided to normalize and ke
 The effect I chose, in the end, manipulates the line height and kerning of the subtexts. I like this for a number of reasons. This was going to be the first subtext's effect, which talks about a tug of war. I like the pulling back and forth, and I think
 that goes well with the rest of the composition as well. I also like that you can create a different readable text layout for each one, even though it's the same function, and I think there's poetic merit in that. 
 
+
+<div class="img-div">
+<img class="blog-img" alt="poetry on site, front facing" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202025-04-13%20at%203.04.25%E2%80%AFPM.png?v=1744577573769">
+<img class="blog-img" alt="poetry on site, different angle" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202025-04-13%20at%203.04.53%E2%80%AFPM.png?v=1744577588042">  
+</div>
+
+#### Finishing Touches
+
+The last thing I did was add an about page with a project description, link to portfolio, and my tracery poem from my most recent assignment in CATN because I thought it fit well as a little easter egg. 
+That was really the goal for the about page, that people would only find it if they were really looking, so it's hypertext link is angled out of the way from being seen immediately and it's not a super visible color until it is hovered over. I also spent time optimizing the interaction 
+in Three.js, because there a lot of stuff being tracked in certain orders, like tracking whether the user is dragging on an object vs. the scene, managing a drag vs. a click, and also tracking zooms / centering.
+
+Note: This was my first time using Three.js and React, so I did use ChatGPT & Github Copilot to assist with the coding throughout the project, especially in man 
