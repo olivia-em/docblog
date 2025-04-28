@@ -39,4 +39,24 @@ as a whole. Once I got that working, I knew I could achieve an expanded version.
 
 I wrote from personal experience, so I started by just dumping a lot of stuff on the page. The main text is broken into 5 sections, which are about 5 confrontations that came over the course of being involved with a person. 
 Each situation relates to a subtext, a short prose excerpt about a person from the past who treated me similarly. Going into the writing, I really felt like these connections meant I should have known better at the time. However, 
-as I wrote I realize that this process is what allowed me to understand the connections, just really sitting down to think through the past and try to see something from many angles. So I think the content strays away from that initial idea of
+as I wrote I realize that this process is what allowed me to understand the connections, just really sitting down to think through the past and try to see something from many angles. So I think the content strays away from that initial idea, which I'm actually happy about 
+because it seems like a harmful mentality. 
+
+#### [Prototyping](https://docs.google.com/document/d/1QZ2nN5u5q2l1qOvAAPWlnl6e6UL9sjyc2AEvdsX9_FM/edit?usp=sharing)
+
+  <div class="vid-aud">
+  <video width="320" height="200" controls>
+  <source src="https://cdn.glitch.me/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screen%20Recording%202025-04-06%20at%208.31.55%E2%80%AFPM.mov?v=1743990777755" >
+Your browser does not support the video tag.
+</video><h5>
+    <i>interaction</i>
+  </h5>
+  </div>
+  
+So I took everything I wrote and for the main text made PNGs. I brought those into the code, and coded a framework such that the main text would be considered a section, but the X & Y rotation of each piece within
+would somehow affect its corresponding subtext. I was originally going to manipulate each subtext differently, with but I got some feedback throughout iteration that have different effects wouldn't necessarily add to the user's understanding
+of the content more than what already going on. So I decided to normalize and keep the effects the same. 
+
+The effect I chose, in the end, manipulates the line height and kerning of the subtexts. I like this for a number of reasons. This was going to be the first subtext's effect, which talks about a tug of war. I like the pulling back and forth, and I think
+that goes well with the rest of the composition as well. I also like that you can create a different readable text layout for each one, even though it's the same function, and I think there's poetic merit in that. 
+
