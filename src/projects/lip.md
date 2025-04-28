@@ -8,6 +8,8 @@ tags:
   - project
 ---
 
+##### Lessons in Perspective: [Repo](https://github.com/olivia-em/inperspective) & [Final App](https://lessons-inperspective.netlify.app/)
+
 #### thinking about hypertext
 
 <div class="img-div">
@@ -21,7 +23,7 @@ tags:
 <br>
 
 I was really interested in hypertext as a way of connecting objects, like web pages, and I especially loved the diagram behind those linkages. For my final project, I knew I wanted to do some sort fo poetic composition
-that has a narrative throughline, but also plays with the idea of perspective and the relation between past and present. Initially, I was going to do some sort of installation with prijection mapping into photo frames on the wall, 
+that has a narrative throughline, but also plays with the idea of perspective and the relation between past and present. Initially, I was going to do some sort of installation with prijection mapping into photo frames on the wall,
 but I ultimately wanted to use this project for Code Your Way and Computational Approaches to Narrative. Then I came to the idea of 3D website that visualizes, in some way, a diagram with unexpected connections. I was working with parametric equations
 as I liked how they have the same variable affecting different aspects of the code, such that each part is related to one another, and I thought this melded well with the concept I had. At the time, I knew what I wanted to write about, and much of the writing process
 was therapeutic.
@@ -33,14 +35,14 @@ was therapeutic.
 <br><br>
 
 This was my initial project plan, in which there would be some sort of main text in 3D page, and then zooming out would reveal subtexts. My first proof of concept was a basic Three.js page with two cubes. The user could rotate either cube individually or rotate the scene
-as a whole. Once I got that working, I knew I could achieve an expanded version. 
+as a whole. Once I got that working, I knew I could achieve an expanded version.
 
 #### [Writing](https://docs.google.com/document/d/1QZ2nN5u5q2l1qOvAAPWlnl6e6UL9sjyc2AEvdsX9_FM/edit?usp=sharing)
 
-I wrote from personal experience, so I started by just dumping a lot of stuff on the page. The main text is broken into 5 sections, which are about 5 confrontations that came over the course of being involved with a person. 
-Each situation relates to a subtext, a short prose excerpt about a person from the past who treated me similarly. Going into the writing, I really felt like these connections meant I should have known better at the time. However, 
-as I wrote I realize that this process is what allowed me to understand the connections, just really sitting down to think through the past and try to see something from many angles. So I think the content strays away from that initial idea, which I'm actually happy about 
-because it seems like a harmful mentality. 
+I wrote from personal experience, so I started by just dumping a lot of stuff on the page. The main text is broken into 5 sections, which are about 5 confrontations that came over the course of being involved with a person.
+Each situation relates to a subtext, a short prose excerpt about a person from the past who treated me similarly. Going into the writing, I really felt like these connections meant I should have known better at the time. However,
+as I wrote I realize that this process is what allowed me to understand the connections, just really sitting down to think through the past and try to see something from many angles. So I think the content strays away from that initial idea, which I'm actually happy about
+because it seems like a harmful mentality.
 
 #### [Prototyping](https://docblog-olee.glitch.me/cyw/week10/)
 
@@ -55,11 +57,10 @@ Your browser does not support the video tag.
   
 So I took everything I wrote and for the main text made PNGs. I brought those into the code, and coded a framework such that the main text would be considered a section, but the X & Y rotation of each piece within
 would somehow affect its corresponding subtext. I was originally going to manipulate each subtext differently, with but I got some feedback throughout iteration that have different effects wouldn't necessarily add to the user's understanding
-of the content more than what already going on. So I decided to normalize and keep the effects the same. 
+of the content more than what already going on. So I decided to normalize and keep the effects the same.
 
 The effect I chose, in the end, manipulates the line height and kerning of the subtexts. I like this for a number of reasons. This was going to be the first subtext's effect, which talks about a tug of war. I like the pulling back and forth, and I think
-that goes well with the rest of the composition as well. I also like that you can create a different readable text layout for each one, even though it's the same function, and I think there's poetic merit in that. 
-
+that goes well with the rest of the composition as well. I also like that you can create a different readable text layout for each one, even though it's the same function, and I think there's poetic merit in that.
 
 <div class="img-div">
 <img class="blog-img" alt="poetry on site, front facing" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202025-04-13%20at%203.04.25%E2%80%AFPM.png?v=1744577573769">
@@ -68,9 +69,11 @@ that goes well with the rest of the composition as well. I also like that you ca
 
 #### Finishing Touches
 
-The last thing I did was add an about page with a project description, link to portfolio, and my tracery poem from my most recent assignment in CATN because I thought it fit well as a little easter egg. 
-That was really the goal for the about page, that people would only find it if they were really looking, so it's hypertext link is angled out of the way from being seen immediately and it's not a super visible color until it is hovered over. I also spent time optimizing the interaction 
+The last thing I did was add an about page with a project description, link to portfolio, and my tracery poem from my most recent assignment in CATN because I thought it fit well as a little easter egg.
+That was really the goal for the about page, that people would only find it if they were really looking, so it's hypertext link is angled out of the way from being seen immediately and it's not a super visible color until it is hovered over. I also spent time optimizing the interaction
 in Three.js, because there a lot of stuff being tracked in certain orders, like tracking whether the user is dragging on an object vs. the scene, managing a drag vs. a click, and also tracking zooms / centering.
 
-Note: This was my first time using Three.js and React, so I did use ChatGPT & Github Copilot to assist with the coding throughout the project, but I feel like I've learned a lot about these languages through this. I knew I could achieve certain things, but I didn't know how. I would often search for examples, but what I wanted to do was pretty niche, 
-so I feel like I was learning the affordances of Three.js through constant iteration.
+Note: This was my first time using Three.js and React, so I did use ChatGPT & Github Copilot to assist with the coding throughout the project, but I feel like I've learned a lot about these languages through this. I knew I could achieve certain things, but I didn't know how. I would often search for examples, but what I wanted to do was pretty niche,
+so I feel like I was learning the affordances of Three.js through constant iteration, and I'm excited to learn more next semester.
+
+#### [Lessons in Perspective](https://lessons-inperspective.netlify.app/)
