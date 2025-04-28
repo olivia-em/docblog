@@ -73,4 +73,4 @@ That was really the goal for the about page, that people would only find it if t
 in Three.js, because there a lot of stuff being tracked in certain orders, like tracking whether the user is dragging on an object vs. the scene, managing a drag vs. a click, and also tracking zooms / centering.
 
 Note: This was my first time using Three.js and React, so I did use ChatGPT & Github Copilot to assist with the coding throughout the project, but I feel like I've learned a lot about these languages through this. I knew I could achieve certain things, but I didn't know how. I would often search for examples, but what I wanted to do was pretty niche, 
-so I feel like I was learning the affordances of Three.js through constant iteration. 
+so I feel like I was learning the affordances of Three.js through constant iteration.
