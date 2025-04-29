@@ -22,8 +22,8 @@ tags:
 </div>
 <br>
 
-I was really interested in hypertext as a way of connecting objects, like web pages, and I especially loved the diagram behind those linkages. For my final project, I knew I wanted to do some sort fo poetic composition
-that has a narrative throughline, but also plays with the idea of perspective and the relation between past and present. Initially, I was going to do some sort of installation with prijection mapping into photo frames on the wall,
+I was really interested in hypertext as a way of connecting objects (relationships, association, etc.) and I especially loved the diagram behind those linkages. For my final project, I knew I wanted to do some sort of poetic composition
+that has a narrative throughline, but also plays with the idea of perspective and the relation between past and present. Initially, I was going to do some sort of installation with projection mapping into photo frames on the wall,
 but I ultimately wanted to use this project for Code Your Way and Computational Approaches to Narrative. Then I came to the idea of 3D website that visualizes, in some way, a diagram with unexpected connections. I was working with parametric equations
 as I liked how they have the same variable affecting different aspects of the code, such that each part is related to one another, and I thought this melded well with the concept I had. At the time, I knew what I wanted to write about, and much of the writing process
 was therapeutic.
