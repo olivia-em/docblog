@@ -15,7 +15,7 @@ templateClass: tmpl-home
       Fall 2024
     </h4><ul>
       {%- for fall2024 in collections.f24 -%}
-        <li{% if page.url == fall2024.url %} aria-current="page"{% endif %}><a href="{{ fall2024.url | url }}">{{ fall2024.data.title }}</a></li>
+        <li{% if page.url == fall2024.url %} aria-current="page"{% endif %}><a href='{{ fall2024.url }}'>{{ fall2024.data.title }}</a></li>
       {%- endfor -%}
 
     </ul>
@@ -26,7 +26,7 @@ templateClass: tmpl-home
       Spring 2025
     </h4><ul>
       {%- for spring2025 in collections.s25 -%}
-        <li{% if page.url == spring2025.url %} aria-current="page"{% endif %}><a href="{{ spring2025.url | url }}">{{ spring2025.data.title }}</a></li>
+        <li{% if page.url == spring2025.url %} aria-current="page"{% endif %}><a href='{{ spring2025.url }}'>{{ spring2025.data.title }}</a></li>
       {%- endfor -%}
 
     </ul>
@@ -38,7 +38,7 @@ templateClass: tmpl-home
     </h4>
 <!--         <ul>
       {%- for spring2025 in collections.s25 -%}
-        <li{% if page.url == spring2025.url %} aria-current="page"{% endif %}><a href="{{ spring2025.url | url }}">{{ spring2025.data.title }}</a></li>
+        <li{% if page.url == spring2025.url %} aria-current="page"{% endif %}><a href='{{ spring2025.url }}'>{{ spring2025.data.title }}</a></li>
       {%- endfor -%}
 
     </ul> -->
@@ -50,7 +50,7 @@ templateClass: tmpl-home
     </h4>
 <!--         <ul>
       {%- for spring2025 in collections.s25 -%}
-        <li{% if page.url == spring2025.url %} aria-current="page"{% endif %}><a href="{{ spring2025.url | url }}">{{ spring2025.data.title }}</a></li>
+        <li{% if page.url == spring2025.url %} aria-current="page"{% endif %}><a href='{{ spring2025.url }}'>{{ spring2025.data.title }}</a></li>
       {%- endfor -%}
 
     </ul> -->

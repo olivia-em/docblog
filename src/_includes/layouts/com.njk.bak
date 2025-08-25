@@ -11,11 +11,11 @@ tags:
 <div class="wrapper home">
   <div>
     <h3 style="text-align: center;">
-      Computational Approaches to Narrative
+      Code of Music
     </h3>
     <ul class="projects">
-      {%- for catn in collections.catns -%}
-        <li class="projects" {% if page.url == catn.url %} aria-current="page"{% endif %}> <a href="{{ catn.url | url }}">{{ catn.data.title }}</a></li>
+      {%- for com in collections.coms -%}
+        <li class="projects" {% if page.url == com.url %} aria-current="page"{% endif %}> <a href='{{ com.url }}'>{{ com.data.title }}</a></li>
       {%- endfor -%}
     </ul>
   </div>

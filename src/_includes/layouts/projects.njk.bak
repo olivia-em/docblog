@@ -14,7 +14,7 @@ templateClass: tmpl-home
     </h3>
     <ul class="projects">
       {%- for project in collections.projects -%}
-        <li class="projects" {% if page.url == project.url %} aria-current="page"{% endif %}><a href="{{ project.url | url }}">{{ project.data.title }}</a></li>
+        <li class="projects" {% if page.url == project.url %} aria-current="page"{% endif %}><a href='{{ project.url }}'>{{ project.data.title }}</a></li>
       {%- endfor -%}
     </ul>
 

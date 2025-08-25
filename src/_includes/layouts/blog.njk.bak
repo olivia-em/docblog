@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+
+{# This is the template for individual blog posts–it builds the front matter properties into the page #}
+
+<div class="wrapper post">
+  <div>
+<h3 style="text-align: center;">
+      {{title}}
+    </h3>
+    
+    
+   <div class="subtitles">
+    <h5><a href='{{ url }}'>{{ class }}</a> </h5>
+
+    <h5>
+     <i>{{when}}</i>
+    </h5>
+      </div>
+<div class="blog-content">
+    {{ content | safe }}
+     </div>
+    
+  </div>
+</div>

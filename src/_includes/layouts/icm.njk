@@ -15,7 +15,7 @@ tags:
     </h3>
     <ul class="projects">
       {%- for icm in collections.icms -%}
-        <li class="projects" {% if page.url == icm.url %} aria-current="page"{% endif %}> <a href='{{ icm.url }}'>{{ icm.data.title }}</a></li>
+        <li class="projects" {% if page.url == icm.url %} aria-current="page"{% endif %}> <a href="{{ icm.url | url }}">{{ icm.data.title }}</a></li>
       {%- endfor -%}
     </ul>
   </div>

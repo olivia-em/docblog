@@ -15,7 +15,7 @@ tags:
     </h3>
     <ul class="projects">
       {%- for catn in collections.catns -%}
-        <li class="projects" {% if page.url == catn.url %} aria-current="page"{% endif %}> <a href="{{ catn.url | url }}">{{ catn.data.title }}</a></li>
+        <li class="projects" {% if page.url == catn.url %} aria-current="page"{% endif %}> <a href='{{ catn.url }}'>{{ catn.data.title }}</a></li>
       {%- endfor -%}
     </ul>
   </div>

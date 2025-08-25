@@ -3,7 +3,7 @@ layout: layouts/base.njk
 templateClass: tmpl-home
 tags:
   - class
-  - spring2025
+  - fall2024
 ---
 
 {# This is the template for the Posts page–it lists the posts in the collection #}
@@ -11,11 +11,11 @@ tags:
 <div class="wrapper home">
   <div>
     <h3 style="text-align: center;">
-      Computational Approaches to Narrative
+      Intro to Physical Computing
     </h3>
     <ul class="projects">
-      {%- for catn in collections.catns -%}
-        <li class="projects" {% if page.url == catn.url %} aria-current="page"{% endif %}> <a href="{{ catn.url | url }}">{{ catn.data.title }}</a></li>
+      {%- for pc in collections.pcs -%}
+        <li class="projects" {% if page.url == pc.url %} aria-current="page"{% endif %}> <a href='{{ pc.url }}'>{{ pc.data.title }}</a></li>
       {%- endfor -%}
     </ul>
   </div>
