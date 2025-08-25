@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    
+    
+    <meta charset="utf-8" />
+    <link rel="icon" href="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Lee-Dice.png?v=1726062115331" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="olivia's documentation blog" />
+    <link rel="stylesheet" type="text/css" href="/docblog/public/style.css" />
+    <title>PComp Midterm - Olivia&apos;s Doc Blog</title>
+
+<meta name="description" content="">
+<meta name="robots" content="index,follow">
+<meta name="author" content="undefined">
+
+<link rel="canonical" href="https://undefined.glitch.me/projects/pcomp1/">
+
+<meta property="og:title" content="PComp Midterm - Olivia&apos;s Doc Blog">
+<meta property="og:type" content="article">
+
+<meta property="og:url" content="https://undefined.glitch.me/projects/pcomp1/">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-eleventy-social.png?v=1616712747908">
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:url" content="https://undefined.glitch.me/projects/pcomp1/">
+<meta name="twitter:title" content="PComp Midterm - Olivia&apos;s Doc Blog">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-eleventy-social.png?v=1616712747908">
+
+
+  </head>
+  <body>
+  <main>
+    
+    <header class="header">
+         <div class="title">
+           <a class="homebutton" href="/docblog/"><img class="icon" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Lee-Dice.png?v=1726062115331"></a>
+           <a class="homebutton" href="/docblog/"><h1 class="heading">Olivia's Doc Blog</h1></a>
+      </div>
+      <div class="links">
+          <span class="divider">*</span>
+          <a href="/classes">All Classes</a>
+          <span class="divider">*</span>
+          <a href="/projects">Projects</a>
+          <span class="divider">*</span>
+        </div>
+      </header>
+  
+    
+
+
+<div class="wrapper post">
+  <div>
+<h3 style="text-align: center;">
+      PComp Midterm
+    </h3>
+    
+    
+   <div class="subtitles">
+    <h5><a href='/classes/physcomp/'>PComp</a> </h5>
+
+    <h5>
+     <i>Weeks 5-7</i>
+    </h5>
+      </div>
+<div class="blog-content">
+    <h4>Brainstorming</h4>
+<p>Kalinda and I originally wanted to use non-tactile sensors, like audio and ultrasonic, to change a p5.js visualization. We found a couple websites for
+documentation, and tried to follow those labs, but struggled to get them to work. We think we had a problem with voltage, but we were also having some technical
+difficulties with the serial connection to the laptop we were using. With all the other midterms that we both had going on, we thought it would be better to scale back,
+since we also had to learn how to do the code for connecting arduino to p5.js. In the end, we decided to stick with buttons and potentiometers and create a small
+VJ-ing set up.</p>
+<div class="img-div">
+<div class="img-cont">
+  <img class="blog-img" alt="original sketch of the set-up w/ ultrasonic and audio sensors" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3946.JPG?v=1729601090638">
+  <h5>
+    Our original sketch for a device with ultrasonic & audio sensors
+  </h5>
+  </div>
+<div class="img-cont">
+  <img class="blog-img" alt="changing the plan, sketch" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3945.JPG?v=1729601095547">
+  <h5>
+    Sketch for a new device
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="sketch with dimensions for laser cutting" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3947.JPG?v=1729601086116">
+  <h5>
+    Sketch with dimensions for laser cutting
+  </h5>
+  </div>
+</div>
+<h4>Code &amp; Connection</h4>
+<p>We replicated labs that are upcoming later in the semester in order to connect the arduino to p5.js. We had to do a couple of them to learn the structure, both in arduino IDE and p5.js, and figure out
+how to export and then splice multiple variables so we could change more than one thing in the p5 sketch.</p>
+<div class="img-div">
+<div class="img-cont">
+  <img class="blog-img" alt="arduino code 1" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.54.50%E2%80%AFPM.png?v=1729601167608">
+  <h5>
+    Arduino Code 1
+  </h5>
+  </div>
+<div class="img-cont">
+  <img class="blog-img" alt="arduino code 2" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.55.03%E2%80%AFPM.png?v=1729601162144">
+  <h5>
+    Arduino Code 2
+  </h5>
+  </div>
+</div>
+<p>I made the p5 design with inspiration from one of <a href="https://sky-itp.cargo.site/computational-media_coding-activities">Sky Seo's</a>
+homework assignments in our ICM class. We wanted to have five changing variables, including speed, frequency, number, and two color ramps.</p>
+<div class="img-div">
+<div class="img-cont">
+  <img class="blog-img" alt="p5.js 1" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.51.27%E2%80%AFPM.png?v=1729601181465">
+  <h5>
+    p5.js Code 1
+  </h5>
+  </div>
+<div class="img-cont">
+  <img class="blog-img" alt="p5.js 2" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.51.42%E2%80%AFPM.png?v=1729601185176">
+  <h5>
+    p5.js Code 2
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 3" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.51.50%E2%80%AFPM.png?v=1729601189141">
+  <h5>
+    p5.js Code 3
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 4" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.52.19%E2%80%AFPM.png?v=1729601193373">
+  <h5>
+    p5.js Code 4
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 5" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.52.26%E2%80%AFPM.png?v=1729601197445">
+  <h5>
+    p5.js Code 5
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 6" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.52.32%E2%80%AFPM.png?v=1729601203523">
+  <h5>
+    p5.js Code 6
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="p5.js 7" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.52.38%E2%80%AFPM.png?v=1729601208057">
+  <h5>
+    p5.js Code 7
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="visualization" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Screenshot%202024-10-21%20at%209.53.05%E2%80%AFPM.png?v=1729601155526">
+  <h5><a target="_blank" href="https://editor.p5js.org/oliviaemlee/sketches/D3gI_nTnO">
+    p5.js Visual</a>
+  </h5>
+  </div>
+</div>
+<h4>Execution</h4>
+<div class="img-div">
+<div class="img-cont">
+  <img class="blog-img" alt="laser cutting" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1768.jpeg?v=1730490433099">
+  <h5>
+    Laser Cutting Box
+  </h5>
+  </div>
+<div class="img-cont">
+  <img class="blog-img" alt="building" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1774.jpeg?v=1730490441034">
+  <h5>
+    Building #1
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="building" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1770.jpeg?v=1730490437102">
+  <h5>
+    Building #2
+  </h5>
+  </div>
+   <div class="img-cont">
+  <img class="blog-img" alt="device in the box" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1798.jpeg?v=1730490445207">
+  <h5>
+    Device in the Box
+  </h5>
+  </div>
+   <div class="img-cont">
+  <img class="blog-img" alt="breadboard in the box" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1799.jpeg?v=1730490449139">
+  <h5>
+    Showing the Breadboard
+  </h5>
+  </div>
+  <div class="img-cont">
+  <img class="blog-img" alt="painted Device" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_1794.jpeg?v=1730490484061">
+  <h5>
+    Painted Device
+  </h5>
+  </div>
+</div>
+<br>
+<p>Our project is pretty straightforward, but I was afraid (like everyone else) that it would just stop working. I had a lot of issues with my arduino,
+and I'll have to get a new one because I sort of blew it. I'm very relieved that we made it through the presentation with no kinks. This project has a <a href="https://vj-device.glitch.me/">webpage</a> component that
+allowed us to display everything in a fuller screen. Although it is kind of useless now, unless someone wants to recreate this project, I think it will be
+a good medium to explore when it comes time for the final project.</p>
+<div>
+  <div class="vid-aud">
+  <video width="320" height="200" controls>
+  <source src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/IMG_3949.mov?v=1730490967204" >
+Your browser does not support the video tag.
+</video><h5>
+    <i>It Works!</i>
+  </h5>
+  </div>
+</div>
+<p>Even though Kalinda and I had to go smaller-scale than what we had originally imagined, I'm super happy with the final project.
+We got some great feedback in class, and I think I want to make grander version of this for the final project. Maybe a larger board with more buttons or knobs
+that could have their own light, and a more intense p5 visualization. It could be a great way to combine my ICM and PCOMP finals.</p>
+
+     </div>
+    
+  </div>
+</div>
+
+      <footer class="footer">
+      </footer>
+    
+  </main>
+   
+  </body>
+</html>

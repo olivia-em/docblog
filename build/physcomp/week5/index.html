@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    
+    
+    <meta charset="utf-8" />
+    <link rel="icon" href="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Lee-Dice.png?v=1726062115331" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="olivia's documentation blog" />
+    <link rel="stylesheet" type="text/css" href="/docblog/public/style.css" />
+    <title>Week 5 - Olivia&apos;s Doc Blog</title>
+
+<meta name="description" content="">
+<meta name="robots" content="index,follow">
+<meta name="author" content="undefined">
+
+<link rel="canonical" href="https://undefined.glitch.me/physcomp/week5/">
+
+<meta property="og:title" content="Week 5 - Olivia&apos;s Doc Blog">
+<meta property="og:type" content="article">
+
+<meta property="og:url" content="https://undefined.glitch.me/physcomp/week5/">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-eleventy-social.png?v=1616712747908">
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:url" content="https://undefined.glitch.me/physcomp/week5/">
+<meta name="twitter:title" content="Week 5 - Olivia&apos;s Doc Blog">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-eleventy-social.png?v=1616712747908">
+
+
+  </head>
+  <body>
+  <main>
+    
+    <header class="header">
+         <div class="title">
+           <a class="homebutton" href="/docblog/"><img class="icon" src="https://cdn.glitch.global/d7ac8ce9-d6b5-4915-b92c-e6f0bf0d0c29/Lee-Dice.png?v=1726062115331"></a>
+           <a class="homebutton" href="/docblog/"><h1 class="heading">Olivia's Doc Blog</h1></a>
+      </div>
+      <div class="links">
+          <span class="divider">*</span>
+          <a href="/classes">All Classes</a>
+          <span class="divider">*</span>
+          <a href="/projects">Projects</a>
+          <span class="divider">*</span>
+        </div>
+      </header>
+  
+    
+
+
+<div class="wrapper post">
+  <div>
+<h3 style="text-align: center;">
+      Week 5
+    </h3>
+    
+    
+   <div class="subtitles">
+    <h5><a href='/classes/physcomp/'>Physical Computing</a> </h5>
+
+    <h5>
+     <i>October 1st, 2024</i>
+    </h5>
+      </div>
+<div class="blog-content">
+    <h4>High Current Loads</h4>
+<p>I didn't really understand how controling speed vs. direction worked until I saw one of the schematics (figure 10) in the reading. The H-bridge
+figure made it clear how alternating the closed and open transistors would reverse the polarity of the motor. There were a few things
+I do have a few questions about; I didn't understand the different use cases for a bipolar vs. unipolar stepper motor. Also, why
+is it better to use a transistor instead of a relay when powering a a DC motor, if relays don't require a protection diode?</p>
+<h4>Readings</h4>
+<h5><i>Making Things Move,</i> Dustyn Roberts</h5>
+<p>It took me a little bit by surprise to see that my readings for the week were written by Dustyn Roberts, because I took her class, <i>Intro to Mechanical Design,</i>
+during my last semester of undergrad. After reading the two chapters of her book, I would definitely say that she's pretty consistent with what she writes and how she teaches.
+In that class, we learned how to use SOLIDWORKS to make 3D and 2D models for printing/laser cutting. One of the most important things I learned was the anecdote of measuring twice, cutting once; this
+is especially true for getting tolerance correct and adjusting for kerf. These two things, in regards to 3D printing and laser cutting respectively, are super important and not
+always known or easily understood. From my experience in laser cutting, kerf takes about 0.07mm(?) on either side of a line, which can really affect the fit of parts when you're trying to put things
+together. This is especially the case when you want to fasten with a press fit joint. For 3D printing, especially with lower resolution, faster prints in PLA, there will be significant shrinkage for holes
+and expansion for posts. I digress, the emphasis on the lack of precision in measurements is really important to understand when trying to rapid prototype, and would definitely be the thing I adjust for time-wise.
+You absolutely cannot expect your first design to do what you want it to, even if your models are &quot;precise and accurate.&quot;</p>
+<h4>Midterm</h4>
+<p>Kalinda and I are working on trying to get our arduino to interact with some sort of javascript visualization. We're purchasing (or have already
+purchased) different kinds of sensors that might be fun for non-tactile interaction, namely audio and ultra-sonic sensors. At first we tried to recreate a
+<a href="https://www.arduino.cc/education/visualization-with-arduino-and-processing/">visualization project</a> that uses Processing, but we faced some issues trying to get
+Processing and Arduino IDE to talk to eachother. We thought it was a problem with getting the right serial port name, but even then, we couldn't get the interaction to work.
+Kalinda then replicated a lab that's coming up in a few weeks that connect p5.js and the arduino, using a potentiometer. This seems really promising, but it's a little black-boxy
+because we don't really understand how p5 knows that its getting data from the A0 pin. Once we figure that out (we've scheduled some office hours to ask about that), we're probably going to have 2-3 types of interaction
+that will change p5.js visuals. I'm happy about changing to p5 from Processing, because that's something we already have experience in from ICM, while Processing required learning a somehwhat different
+syntax that may have been too much to do at this point for our project. Also, I'm thinking I'd like to build something to contain the circuit, like some sort of box or board where only the sensors are visible/accessible,
+but we'll probably do that after we finalize the set-up and start coding in p5.</p>
+
+     </div>
+    
+  </div>
+</div>
+
+      <footer class="footer">
+      </footer>
+    
+  </main>
+   
+  </body>
+</html>

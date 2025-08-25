@@ -1,23 +1,28 @@
 {
-  "name": "glitch-hello-eleventy",
+  "name": "Olivia-Documentation-Blog",
   "version": "0.1.0",
-  "description": "A simple blog, set up with Eleventy.",
+  "description": "always a disaster",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "NODE_ENV=production eleventy"
+    "build": "NODE_ENV=production eleventy",
+    "predeploy": "npm ci && npm run build",
+    "deploy": "npx gh-pages -d build"
   },
   "dependencies": {
     "eleventy-plugin-seo": "0.5.2",
-    "luxon": "^3.0.1"
+    "luxon": "^3.4.4"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0"
+    "@11ty/eleventy": "^2.0.0",
+    "gh-pages": "^6.3.0"
   },
   "engines": {
-    "node": "12"
+    "node": ">=16",
+    "npm": ">=7"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/glitch-hello-eleventy"
+    "type": "git",
+    "url": "https://github.com/olivia-em/docblog.git"
   },
   "glitch": {
     "projectType": "generated_static"

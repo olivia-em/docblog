@@ -1,12 +1,6 @@
 const { DateTime } = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
 
-/**
- * This is the JavaScript code that determines the config for your Eleventy site
- *
- * You can add lost of customization here to define how the site builds your content
- * Try extending it to suit your needs!
- */
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setTemplateFormats([
@@ -24,13 +18,8 @@ module.exports = function (eleventyConfig) {
     "woff2",
   ]);
   eleventyConfig.addPassthroughCopy("public");
+  eleventyConfig.addPassthroughCopy(".nojekyll");
 
-  /* From: https://github.com/artstorm/eleventy-plugin-seo
-  
-  Adds SEO settings to the top of all pages
-  The "glitch-default" bit allows someone to set the url in seo.json while
-  still letting it have a proper glitch.me address via PROJECT_DOMAIN
-  */
   const seo = require("./src/seo.json");
   if (seo.url === "glitch-default") {
     seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
@@ -105,11 +94,20 @@ module.exports = function (eleventyConfig) {
     return coll;
   });
 
+   // Determine the path prefix based on environment
+  const isProduction = process.env.NODE_ENV === 'production';
+  const pathPrefix = isProduction ? '/docblog/' : '/';
+
+
+  console.log('Path prefix:', pathPrefix);
+  
   return {
     dir: {
       input: "src",
       includes: "_includes",
       output: "build",
     },
+    pathPrefix: pathPrefix,
   };
 };
+
